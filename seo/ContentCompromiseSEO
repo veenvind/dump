@@ -1,0 +1,683 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> ContentCompromiseSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/ContentCompromiseSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit ContentCompromiseSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/ContentCompromiseSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<style type="text/css" media="all">
+.tableSortIcon img {padding-left:.3em; vertical-align:text-bottom;}
+.foswikiTable#twikiAttachmentsTable td {vertical-align:middle;}
+.foswikiTable#twikiAttachmentsTable th {vertical-align:middle;}
+.foswikiTable#twikiAttachmentsTable td {vertical-align:top;}
+.foswikiTable#twikiAttachmentsTable th {background-color:#ffffff;}
+.foswikiTable#twikiAttachmentsTable th.foswikiSortedCol {background-color:#eeeeee;}
+.foswikiTable#twikiAttachmentsTable th {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:link {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:visited {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:link font {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:visited font {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:hover {color:#ffffff;background-color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:hover font {color:#ffffff;background-color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable tr.foswikiTableRowdataBg0 td {background-color:#ffffff;}
+.foswikiTable#twikiAttachmentsTable tr.foswikiTableRowdataBg0 td.foswikiSortedCol {background-color:#f5f5f5;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol0 {text-align:center;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol1 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol2 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol3 {text-align:right;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol4 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol5 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol6 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol7 {text-align:center;}
+</style><!--TABLEPLUGIN_twikiAttachmentsTable-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<link rel='stylesheet' href='/pub/System/TwistyPlugin/jquery.twisty.css?version=1.6.0' type='text/css' media='all' /><!--JQUERYPLUGIN::TWISTY: requires= missing ids: JavascriptFiles/foswikiPref-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:19" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="ContentCompromiseSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiPref.js"></script><!--JavascriptFiles/foswikiPref-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+<script type='text/javascript' src='/pub/System/TwistyPlugin/jquery.twisty.js?version=1.6.0'></script><!--JQUERYPLUGIN::TWISTY-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ContentCompromiseSEO?t=1383470363;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ContentCompromiseSEO?t=1383470363;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/ContentCompromiseSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/ContentCompromiseSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/ContentCompromiseSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/ContentCompromiseSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r7 - 24 Sep 2013 - 17:42:56 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.ContentCompromiseSEO">ContentCompromiseSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" />
+<!--  If you have questions, please don't hesitate to ask.    -->
+<!--       - <a href="mailto&#58;lego&#45;questions&#64;yahoo&#45;inc&#46;com">lego-questions&#64;yahoo-inc.com</a>                 -->
+<p></p>
+  <!--  New Page basic info jump-started for your convenience   -->
+  <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<p></p>
+  <!--                   PAGE HEADER                            -->
+  <!--  The default header is generated from the page name.     -->
+  <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/>
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(document.getElementById("ylego-nav-ContentCompromiseSEO")){document.getElementById("ylego-nav-ContentCompromiseSEO").className +=" selected";}
+</script>
+<p></p>
+<div style="float:right;border:1px solid #ccc;font-size:85%;padding: 5px 20px; background-color: white;margin-left:30px;">
+<h4><a name="SEO_Standards_Chapters"></a> SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div>
+</div>
+<p></p>
+<h1><a name="Chapter_24:_Compromised_Content_Guidelines"></a>  Chapter 24: Compromised Content Guidelines </h1>
+<p></p>
+<p></p>
+  <!--                   TABLE OF CONTENTS                       --> 
+  <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#Introduction"> Introduction </a>
+</li> <li> <a href="#Points_of_Contact"> Points of Contact </a>
+</li> <li> <a href="#Compromised_Content_Standard"> Compromised Content Standard </a>
+</li> <li> <a href="#How_to_file_a_DMCA_Notice_with_Google"> How to file a DMCA Notice with Google </a>
+</li></ul> 
+</div>
+<p></p>
+<h2><a name="Introduction"></a>  Introduction </h2>
+<p></p>
+This standard handles any compromised content such as content scraping or unauthorized use of content from a search perspective. 
+<p></p>
+<blockquote>
+<pre>
+No action listed below can be taken without previously getting sign-off from the Yahoo Legal team, and SEO team.
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Points_of_Contact"></a>  Points of Contact </h2>
+<p></p>
+<b>Sign-Offs</b>:<br>
+<p></p>
+Legal team; 
+<p></p>
+US: <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=jgimbel" target="_top">Jordan Gimbel</a><br>
+EMEA: <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=tortiz" target="_top">Tatiana Ortiz</a><br>
+APAC: <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=bseet" target="_top">Bernardine Seet</a><br>
+LATAM: (Brasil excluded): <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=billc" target="_top">Bill Carvalho</a><br>
+Brasil: <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=dgualda" target="_top">Diego Gualda</a><br>
+<p></p>
+SEO team; <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=markusr" target="_top">Markus Renstrom</a> (SEO Sign-off)<br>
+<p></p>
+<b>Consults</b>:<br>
+Legal team; <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=dowellc" target="_top">Christian Dowell</a> (Consult: Unauthorized usage of logo)<br>
+PR team; <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=carolync" target="_top">Carolyn Clark</a> (Consult; PR)
+<p></p>
+<h2><a name="Compromised_Content_Standard"></a>  Compromised Content Standard </h2>
+<p></p>
+If you find that your original content has been copied without permission and might even rank ahead of your original page in search results, these are the steps you could take:
+<p></p>
+<ol><li>
+If the unauthorized use of your content is an isolated incident, ask the site to attribute and link to original source, using a portion of the original article rather than the entire article. Also, if you spot a site or URL that is using a Yahoo brand name or logo when it should not, file a report via the <a href="http://tet.corp.yahoo.com/" target="_top">Trademark Enforcement Tracker</a>. 
+</li><li>
+If the site is an egregious offender, copying large amounts of content, ask them to not copy your content and to remove the content from their site by contacting public email addresses, as well as the administrative and technical contacts listed in the domain’s <a href="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwhois.net%2F&SIG=10logcluk" target="_top">WhoIs record</a>.  Legal can provide you with a cease and desist letter template (see points of contact above).  
+</li><li>
+If action #2 doesn’t get a satisfactory response, in order of action;
+<ol><li>
+Post in a Google Web Search product forum.
+</li><li>
+File spam reports with Google.
+</li></ol>
+</li><li>
+If that doesn’t get a satisfactory response,
+<ol><li>
+Send a DMCA notice to the web host of offending site 
+</li><li>
+File DMCA notice with Google via Webmaster Tools form
+</li></ol>
+</li></ol>
+<p></p>
+Note:<br>
+There are legal &amp; PR implications which, given the hotly debated politics of Internet freedom and copyright, can be blown out of proportion for any individual instance of piracy. The legal implications should also be considered, sites targeted with 'DMCA notices' have an opportunity to submit counter notices or take other legal action and, in cases where content being targeted was actually allowed under the 'fair use doctrine', the company submitting the notice can be found liable for costs and attorney fees.  So please use caution when taking steps like submitting a DMCA to enforce the Yahoo! copyright and note that all DMCA notices that Google receives are submitted to the <a href="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fchillingeffects.org%2F&SIG=10v51h7f5" target="_top">ChillingEffects.org</a> site which is public.  
+<p></p>
+<blockquote>
+<pre>
+No DMCA notice can be filed without previous sign-off from Yahoo! Legal, PR and SEO team.
+</pre>
+</blockquote>
+<p></p>
+<p></p>
+<h2><a name="How_to_file_a_DMCA_Notice_with_Google"></a>  How to file a DMCA Notice with Google </h2>
+<p></p>
+Google provides a Webmaster Tools Dashboard for creating and managing DMCA filings.  The Dashboard is available <a href="http://twiki.corp.yahoo.com:8080/?url=https%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2Fdmca-dashboard%3Fhl%3Den&SIG=120qio0f5" target="_top">for logged in Google accounts</a>. For access to the Google Webmaster Tools Dashboard, please contact <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=markusr" target="_top">Markus Renstrom</a>. The Dashboard looks like follows:
+<p></p>
+<img alt="" src="/pub/Lego/ContentCompromiseSEO/dmca-submission.png" />
+<p></p>
+Clicking on the “Create A New Notice” link will take you to a form asking for a number of pieces of information.  As part of this form you will need to add the “represented copyright holder” you are acting on behalf of and you will need to identify and describe the copyrighted work, where the authorized work can be viewed and where urls of the infringing material and you will have to provide a sworn statement and digital signature. If you are submitting for multiple works, you can use the provided form for up to 1,000 urls of authorized and infringing links. There is also a provision for submitting additional groups of other infringing material.  
+You can view the status of your submissions in the dashboard.
+<p></p>
+<blockquote>
+<pre>
+No DMCA notice can be filed without previous sign-off from Yahoo! Legal, PR and SEO team.
+</pre>
+</blockquote>
+<p></p>
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+-->
+<p></p>
+<p></p>
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+--></div><!-- /patternTopic--><div class="twikiAttachments">
+<div class="twistyPlugin foswikiMakeVisible"><span id="topicattachmentslist1show" style="display:none" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyInited"><a href="#" class=""><img src="/pub/System/DocumentGraphics/toggleopen.png" border="0" alt="" /><span class="foswikiLinkLabel foswikiUnvisited">Attachments</span></a></span><span id="topicattachmentslist1hide" style="display:none" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyInited"><a href="#" class=""><img src="/pub/System/DocumentGraphics/toggleclose.png" border="0" alt="" /><span class="foswikiLinkLabel foswikiUnvisited">Attachments</span></a></span></div><div class="twistyPlugin"><div id="topicattachmentslist1toggle" style="" class="twistyRememberSetting twistyContent twistyInited">
+<table summary="Topic attachments" cellspacing="0" id="twikiAttachmentsTable" cellpadding="0" class="foswikiTable" rules="rows" border="1"><caption>Topic attachments</caption>
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">I</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Attachment</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=2;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Action</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol3"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=3;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Size</font></a> </th>
+			<th bgcolor="#eeeeee" valign="middle" class="foswikiTableCol4 foswikiSortedAscendingCol foswikiSortedCol"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=4;table=1;up=1#sorted_table" title="Sort by this column"><font color="#0066cc">Date</font></a><span class="tableSortIcon tableSortUp"><img width="11" alt="Sorted ascending" src="/pub/System/DocumentGraphics/tablesortup.gif" title="Sorted ascending" height="13" border="0" /></span> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol5"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=5;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Who</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol6 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?sortcol=6;table=1;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Comment</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" rowspan="1" align="center" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> <span class="foswikiIcon"><img src="/pub/System/DocumentGraphics/png.png" width="16" height="16" alt="dmca-submission.png" /></span><span class="foswikiHidden">png</span> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol1 foswikiLast"> <a href="/pub/Lego/ContentCompromiseSEO/dmca-submission.png">dmca-submission.png</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol2 foswikiLast"> <a href="/attach/Lego/ContentCompromiseSEO?filename=dmca-submission.png;revInfo=1" title="change, update, previous revisions, move, delete..." rel="nofollow">manage</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="right" valign="top" class="foswikiTableCol3 foswikiLast"> 47.6&nbsp;K </td>
+			<td bgcolor="#f5f5f5" rowspan="1" align="left" valign="top" class="foswikiTableCol4 foswikiSortedAscendingCol foswikiSortedCol foswikiLast"> <span class="foswikiNoBreak">26 Jun 2013 - 18:45 UTC</span> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol5 foswikiLast"> <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol6 foswikiLastCol foswikiLast"> DMCA submission screenshot from Google Webmaster Tools </td>
+		</tr>
+	</tbody></table>
+</div></div></div><!--//twikiAttachments--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ContentCompromiseSEO?t=1383470363;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/ContentCompromiseSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/ContentCompromiseSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/ContentCompromiseSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r7&nbsp;<a rel="nofollow" href="/rdiff/Lego/ContentCompromiseSEO?rev1=7;rev2=6">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?rev=6">r6</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/ContentCompromiseSEO?rev1=6;rev2=5">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?rev=5">r5</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/ContentCompromiseSEO?rev1=5;rev2=4">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ContentCompromiseSEO?rev=4">r4</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/ContentCompromiseSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/ContentCompromiseSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ContentCompromiseSEO?t=1383470363;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/ContentCompromiseSEO?template=more&amp;maxrev=7&amp;currrev=7" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.ContentCompromiseSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/ContentCompromiseSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.ContentCompromiseSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-03.dt.corp.gq1.yahoo.com Sun Nov  3 09:19:22 UTC 2013 -->

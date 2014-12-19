@@ -1,0 +1,1195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> MetaDataStandardSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/MetaDataStandardSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit MetaDataStandardSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/MetaDataStandardSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<style type="text/css" media="all">
+@import url("http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.css");
+</style><!--EditTablePlugin/edittable.css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:18" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="MetaDataStandardSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/MetaDataStandardSEO?t=1383470335;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/MetaDataStandardSEO?t=1383470335;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/MetaDataStandardSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/MetaDataStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/MetaDataStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/MetaDataStandardSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r23 - 15 Jul 2013 - 20:09:43 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.MetaDataStandardSEO">MetaDataStandardSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" />
+<!--  If you have questions, please don't hesitate to ask.    -->
+<!--       - <a href="mailto&#58;mit&#45;lego&#45;baseplate&#64;yahoo&#45;inc&#46;com">mit-lego-baseplate&#64;yahoo-inc.com</a>                 -->
+<p></p>
+  <!--  New Page basic info jump-started for your convenience   -->
+  <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<p></p>
+  <!--                   PAGE HEADER                            -->
+  <!--  The default header is generated from the page name.     -->
+  <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/>
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(document.getElementById("ylego-nav-MetaDataStandardSEO")){document.getElementById("ylego-nav-MetaDataStandardSEO").className +=" selected";}
+</script>
+<p></p>
+<div style="float:right;border:1px solid #ccc;font-size:85%;padding: 5px 20px; background-color: white;margin-left:30px;">
+<h4><a name="SEO_Standards_Chapters"></a> SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div>
+</div>
+<p></p>
+<h1><a name="Chapter_4:_Meta_Data_Creation_Standard"></a>  Chapter 4: Meta Data Creation Standard </h1>
+<p></p>
+<p></p>
+  <!--                   TABLE OF CONTENTS                       --> 
+  <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#Introduction"> Introduction </a>
+</li> <li> <a href="#Yahoo_33_Meta_Data_Standard"> Yahoo! Meta Data Standard </a>
+</li> <li> <a href="#Index_Pages"> Index Pages </a>
+</li> <li> <a href="#News_Article"> News Article </a>
+</li> <li> <a href="#Photos"> Photos </a>
+</li> <li> <a href="#Videos"> Videos </a>
+</li> <li> <a href="#Blogs"> Blogs </a>
+</li> <li> <a href="#Horoscope"> Horoscope </a>
+</li> <li> <a href="#Other_Page_Types"> Other Page Types </a>
+</li> <li> <a href="#Headings"> Headings </a>
+</li> <li> <a href="#Properties"> Properties </a>
+</li> <li> <a href="#Implementation"> Implementation </a>
+</li> <li> <a href="#Edit_SEO_Yala_String"> Edit SEO Yala String </a>
+</li> <li> <a href="#Regional_Contacts"> Regional Contacts </a>
+</li></ul> 
+</div>
+<p></p>
+<p></p>
+<h2><a name="Introduction"></a>  Introduction </h2>
+<p></p>
+<ul><li>
+<b>[Property]</b>
+<br>Refers to the property name without the branding
+<ul><li>Example: "Movies" for "Yahoo! Movies". 
+</li></ul>
+</li><li>
+<b>[Country]</b>
+<br>Refers to the country of the property.
+<ul><li>Example: For Yahoo! Movies in Germany it would be "Deutschland".
+</li></ul>
+</li><li>
+<b>[Country Code]</b>
+<br>Refers to the country code of the property
+<ul><li>Example: For Yahoo! Movies in Germany it would be "DE".
+</li><li>
+Country code should follow the ISO standard
+</li><li>
+Country code should only be used when the language is used in more than one country. For example: 
+<ul><li>English and Spanish speaking countries would use the country code
+</li><li>Italian and German would not use the country code.  
+</li><li>Exception: The US does not use the country code.   
+</ul></li>
+</ul></li>
+</li><li>
+<b>[Article title]</b>
+<br>Refers to the complete title of a news article
+</li><li>
+<b>[Article/Blog description]</b>
+<br>Refers to the first 100 characters of a news article or blog entry. 
+</ul></li>
+<p></p>
+<h2><a name="Yahoo_33_Meta_Data_Standard"></a>  Yahoo! Meta Data Standard </h2>
+<p></p>
+<blockquote>
+<pre>
+Every page requires to have an individual title and meta description.
+Meta keyword is not required.
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Index_Pages"></a>  Index Pages </h2>
+<p></p>
+<b>Property Homepage Title Element</b>
+<p></p>
+<blockquote>
+<pre>
+&#39;Yahoo! &#91;Property] &#91;Country]&#39;
+</pre>
+</blockquote>
+<p></p>
+If there are valid reasons for targeting more than one keyword up to a maximum of 3 can be used separated by the pipe character:
+<p></p>
+<blockquote>
+<pre>
+&#39;Yahoo! &#91;Property] &#91;Country] – &#91;KW Variant #1] &#124; &#91;KW Variant #2] &#124; &#91;KW Variant #3]&#39;
+</pre>
+</blockquote>
+For example:
+<br> 
+<i>Yahoo! News Canada – Latest World News &amp; News Headlines</i><br><br>
+Note: for front page the country is written out completely. For the rest of the pages, only the country code is used. </li></ul>
+<p></p>
+<b>Category Title Elements</b>
+<p></p>
+The title elements for all index pages (other than the homepage) should adhere to the following pattern:
+<p></p>
+<blockquote>
+<pre>
+&#39;&#91;KW Variant #1] &#124; &#91;Additional Product Descriptor] – Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+For example:<br> 
+<i>Coming Soon | Latest Film Previews - Yahoo! Movies UK</i></li></ul>
+<p></p>
+Again, if there are valid reasons for targeting more than one keyword up to a maximum of 3 can be used separated by the pipe character. Keywords should be ordered from left to right in order of search volume:
+<p></p>
+<blockquote>
+<pre>
+&#39;&#91;KW Variant #1] &#124; &#91;KW Variant #2] &#124; &#91;KW Variant #3] – Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+For example:<br> 
+<i>F1 Racing | Formula 1 Racing | Formula One Racing – Yahoo! Sports IN</i></li></ul>
+<p></p>
+<b>Meta Descriptions</b>
+<p></p>
+All meta descriptions should adhere to the following pattern:<br>
+<p></p>
+<blockquote>
+<pre>
+&#39;&#91;Call to Action]&#91;Product Descriptor/KW Variant #1] from Yahoo! &#91;Property] &#91;Country]. &#91;Detailed Product Description/KW Variant #2]&#39;
+</pre>
+</blockquote>
+The call to action at the start of the meta description will help to encourage CTR when displayed on a SERP – it needs to engage with the user and imbue a sense of urgency. Example call to action words that we typically use in English are:<br> <br>
+<i>Get the latest world news headlines from Yahoo News Singapore. Find breaking world news with in-depth coverage including analysis and opinions.</i><br><br>
+The short product descriptor at the start of the title element needs to tell the user exactly what they can expect to find when they click through to the landing page. The property name and country are once again included to help position the Yahoo! brand.
+</li></ul>
+<p></p>
+<b>Meta keywords</b>
+<p></p>
+The meta keywords have been excluded as a signal for the search engines due to the history of spamming using the tag for keyword stuffing.The meta keyword tag can be added for smaller search engines that might be using the meta tag as a signal, however they should be very basic and no more than five.<br> 
+<p></p>
+<blockquote>
+<pre>
+&#39;&#91;main keyword], yahoo &#91;property] &#91;country], &#91;secondary keyword #1], &#91;secondary keyword #2], &#91;secondary keyword #3]&#39;
+</pre>
+</blockquote>
+For example:<br> 
+<i>news, yahoo news canada, daily news, top headlines, breaking news</i></li></ul>
+<p></p>
+<h2><a name="News_Article"></a>  News Article </h2>
+<p></p>
+Title element:
+<blockquote>
+<pre>
+&#39;&#91;Article-title] - Yahoo! &#91;Property Name] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;From &#91;property]: &#91;article description]&#39;
+</pre>
+</blockquote>
+Notes:<ul><li>The article description contains the first 100 characters of the article body.
+</li></ul> 
+<p></p>
+<h2><a name="Photos"></a>  Photos </h2>
+<p></p>
+<b>Photo Index</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Property] Photo Galleries &#38; Slideshows - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View photo galleries and slideshows on the latest news stories from around the world on Yahoo! News.
+</pre>
+</blockquote>
+<p></p>
+<b>Photo SlideShow</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;5 first word of photo title…]&#39; &#124; &#91;Gallery Name] - Yahoo! &#91;Property] &#91;Country Code]
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View the picture &#39;&#91;First 5 words of title]...&#39; from the photo gallery &#39;&#91;Gallery Name]&#39; on &#91;property] &#91;Country Code]. 
+&#91;Complete First sentence of picture description]&#39;
+</pre>
+</blockquote>
+<p></p>
+<b>Individual Photo</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Photo title] &#124; View photo - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View the photo &#91;Photo title] on &#91;property] &#91;country]. Find more photos in our photo galleries&#39;.
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Videos"></a>  Videos </h2>
+<p></p>
+<b>Video Index</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Property] Videos &#124; Watch the latest clips - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Watch the latest &#91;Property] videos on Yahoo! &#91;Property] &#91;Country]. Find videos on the latest events with breaking &#91;Property] video clips&#39;.
+</pre>
+</blockquote>
+<p></p>
+<b>Video Category</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Category] Videos &#124; Watch &#91;Category] videos - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Watch the latest &#91;Category] videos on Yahoo! &#91;Property] &#91;Country]. See breaking &#91;Category] footage, latest headlines and more videos&#39;.
+</pre>
+</blockquote>
+<p></p>
+<b>Individual Video</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;video title] &#124; Watch the video - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Watch the video &#39;&#91;video title]&#39; on Yahoo! &#91;Property] &#91;Country]. &#91;video description]&#39;.
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Blogs"></a>  Blogs </h2>
+<p></p>
+<b>Super Blog Index</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;Blogs - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Find the latest blog posts from our bloggers on Yahoo! &#91;Property] &#91;Country]. 
+Read posts on the latest &#91;Property] news with analysis and opinions&#39;.
+</pre>
+</blockquote>
+<p></p>
+<b>Blog Index</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;blog name] &#124; &#91;Property] Blog - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View the &#91;Property] blog &#91;Blog name] on Yahoo! &#91;Property] &#91;Country]. Find the latest breaking news on &#91;Blog name] and leave your comment on the blog entries&#39;.
+</pre>
+</blockquote>
+<p></p>
+<b>Blog Entry</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Blog entry] &#124; (Blog name] - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;From the blog &#91;blog name]: &#91;blog description]&#39;
+</pre>
+</blockquote>
+<p></p>
+<b>Blogger Profile</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;blogger name] &#124; Author Profile - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;See our &#91;Property] author &#91;blogger name]&#39;s profile on Yahoo! &#91;Property] &#91;Country]. View &#91;Blogger-name]&#39;s latest posts.&#39;
+</pre>
+</blockquote>
+<p></p>
+<b>Blog Tags</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Tag Name] &#124; &#91;Blog Name] blog tags - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;See all &#91;blog name] blog entries tagged as &#91;Tag Name] on Yahoo! &#91;Property] &#91;Country]&#39;
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Horoscope"></a>  Horoscope </h2>
+<b>Zodiac page</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Zodiac] Horoscope &#124; &#91;Type] &#124; &#91;Frequency] &#91;date] - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;&#91;Freqency] &#91;Zodiac] &#91;Type] Horoscope from Yahoo! &#91;Property]: &#91;First line of horoscope]&#39;
+</pre>
+</blockquote>
+<p></p>
+<b>Chinese Horoscope page</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Zodiac] Chinese Horoscope &#124; &#91;Type] &#124; &#91;Frequency] &#91;date] - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;&#91;Freqency] &#91;Zodiac] &#91;Type] Chinese Horoscope from Yahoo! &#91;Property]: &#91;First line of horoscope]&#39;
+</pre>
+</blockquote>	
+<p></p>
+<h2><a name="Other_Page_Types"></a>  Other Page Types </h2>
+<p></p>
+<b>Event/Topic Page</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Topic Name] &#124; Latest Headlines - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>	
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Get the latest &#91;topic name] headlines and breaking stories from Yahoo &#91;Property]. Find &#91;topic name] news with in-depth coverage including analysis, videos and opinions.&#39;
+</pre>
+</blockquote>	
+<p></p>
+<b>Most Popular</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;Most Popular &#91;Property] Pages - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>	
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View the most popular pages on Yahoo! &#91;Property] &#91;Country Code]. Discover which headlines and stories our users found most interesting.&#39;
+</pre>
+</blockquote>	
+<p></p>
+<b>Polls</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;&#91;Poll title] &#124; Poll results - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>	
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;Find the results of the poll &#91;Poll title] on Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>	
+<p></p>
+<b>Site Index</b><br>
+Title:
+<blockquote>
+<pre>
+&#39;Site Index &#124; Sitemap - Yahoo! &#91;Property] &#91;Country Code]&#39;
+</pre>
+</blockquote>	
+<p></p>
+Meta Description:
+<blockquote>
+<pre>
+&#39;View a comprehensive list of pages on Yahoo! &#91;Property] &#91;Country Code]. Find all categories, blogs, photo galleries and more.&#39;
+</pre>
+</blockquote>	
+<p></p>
+<h2><a name="Headings"></a>  Headings </h2>
+<ul><li>
+Each page should have only one H1 heading, the rest should be wrapped in H2. 
+</li><li>
+The property name, represented in the Universal Header, should be wrapped in H2.
+</li><li>
+The H1 heading for index pages should be the category name, for leaf pages the article, photo, video or blog entry title. 
+</li><li>
+The heading should be indexable, meaning that the heading should not be an image or banner. 
+</li><li>
+In case banner heading needs to be used, the banner should be wrapped in H1 tags to convert the image alt into a heading. 
+</li><li>
+Th heading <strong>cannot</strong> be hidden; it needs to be visible for users and search engines. 
+</li></ul>
+<p></p>
+<h2><a name="Properties"></a>  Properties </h2>
+<p></p>
+<p></p>
+<a name="edittable1"></a>
+<div class="editTable">
+<form name="edittable1" action="http://twiki.corp.yahoo.com/viewauth/Lego/MetaDataStandardSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable1" method="post">
+<input type="hidden" name="ettablenr" value="1" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table1" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Property</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Property Full  Name</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=2;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Exceptions/Details</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol3 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=3;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Localized Property Name</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Autos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! Autos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> Yahoo! Cars in the UK </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entertainment </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! Entertainment </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Games </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! Games </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> Yahoo! Shine in CA and US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> French Canada, Spain, France, Taiwan, Hong Kong </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Music </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! Music </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> Includes exclamation mark </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> No </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Yes </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Yahoo! TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> France </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Video </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo! Video </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> N/A </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> No </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> Weather </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLast"> Yahoo! Weather </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLast"> N/A </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol foswikiLast"> Yes </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<h2><a name="Implementation"></a>  Implementation </h2>
+<p></p>
+Baseplate uses a metadata module in the document <code>HEAD</code> to set the meta data. The following values are picked up from context, note that <code>ctx.meta.canonical</code> is set automatically by the page mapper.
+<p></p> <ul>
+<li> <code>ctx.meta.title</code>
+</li> <li> <code>ctx.meta.description</code>
+</li> <li> <code>ctx.meta.rss</code>
+</li> <li> <code>ctx.meta.canonical</code>
+</li> <li> <code>ctx.meta.noindex</code>
+</li></ul> 
+<p></p>
+There are also critical pieces of data that must be exported to context for modules to behave correctly. Prime examples are <code>ctx.content_id</code> and <code>ctx.media.ccm.page_uuid</code> (which is really the layout UUID). This data can be exported either at the page mapper stage, or by one of your modules. 
+<p></p>
+<b>How Page SEO Fields Work</b>
+<p></p>
+All Lego sites share the standard pattern for title and description metadata. <strong>Keywords</strong> have been eliminated as they do not impact rankings. Baseplate's project common now contains code to properly implement the title and descriptions for most Lego pages. 
+<p></p> <ul>
+<li> <a href="http://svn.corp.yahoo.com/view/yahoo/media/common/projects/common/trunk/lib/MediaCcmPageUtil.php?view=markup" target="_top">Peek at code (find <code>exportPageSeo</code>)</a> 
+</li></ul> 
+<p></p>
+<b>How to Launch a New Page Type</b>
+<p></p>
+<ol><li>
+Work with Markus Renstrom to ensure an agreed upon standard SEO metadata specification is created and approved for this page type.
+</li><li>
+Work with <a href="/view/Lego/Engagement">Lego Engagement</a> to make sure that they are aware that a new page content type is coming onboard and that Baseplate will need to either:
+<ol><li>
+Implement the SEO metadata for it
+</li><li>
+Create a patch for the same will need to be submitted to Baseplate.   
+</li></ol>
+</li></ol>
+<p></p>
+<b>Implementation</b>
+<p></p>
+There are several parts to this implementation.
+<p></p>
+<ol><li>
+<b>Site Names</b><br>There is a YRB resource bundle with <strong>three</strong> strings for each Yahoo! site. These are:
+<ul><li>
+PAGE_META_SITE_FULL - full localized name such as "Yahoo! News Germany"; this may include the country name if desired;
+</li><li>
+PAGE_META_SITE_SHORT - this is just the localized site name e.g. "News"
+</li><li>
+PAGE_META_SITE_COUNTRY - localized country name if applicable e.g. "Deutschland"
+</li></ul>
+<p></p>
+These must be translated and localized for each language in which the site operates. This is done via <a href="http://yala.yahoo.com" target="_top">The Yala Project "media_project_common"</a>.
+<p></p>
+The default list of strings is auto-generated using a script and creates strings for each site in the Media common dimensions, excluding some rollups such as "Yahoo", "Media, and "Cbe" for example: <ul>
+<li> <a href="http://svn.corp.yahoo.com/view/yahoo/media/common/projects/common/trunk/bin/BuildSitesMetadata.php?view=log" target="_top">YRB string generator script</a>
+</li> <li> This script runs during our automatic build process via Makefile, therefore, site metadata is constantly updated.
+</li></ul> 
+<br>
+</li><li>
+<b>Site Name Configuration</b><br>Lego automatically generate a YCB delta file for each site, so that sites may specify which YRB keys they want to use for each of the three strings. For example, this will allow sites to piggyback on another site's strings. e.g. Fantasy Sports may want to use the property name for Sports.
+<p></p>
+These may be editable by all engineers at a future date, and that is why they are separated into distinct files.
+<p></p> <ul>
+<li> <a href="http://svn.corp.yahoo.com/view/yahoo/media/common/projects/common/trunk/var/ycb/metadata/" target="_top">Site name ycb delta files</a>
+</li></ul> 
+<p></p>
+</li><li>
+<b>Metadata Pattern Strings</b><br>
+Next, the patterns specified by the SEO spec are implemented as YRB strings that can be translated for each language. This allows local changes such as re-ordering the various components to suit language requirements. This is a single canonical place where all patterns for Lego page SEO meta strings will live.
+<p></p> <ul>
+<li> <a href="http://svn.corp.yahoo.com/view/yahoo/media/common/projects/common/trunk/var/yrb/strings.pres?view=log" target="_top">Metadata format pattern strings</a>
+</li></ul> 
+</li></ol>
+<p></p>
+<b>Feature Switch</b>
+<p></p>
+By default, page_exports (explained below) can still override the default Baseplate values. This is so that in the future we still possess the flexibility to make changes for different experiences or sites, even though most Yahoo! sites should benefit from the standardization.
+<p></p>
+There is a feature switch that can be enabled or disabled to allow for page_export override:
+<p></p>
+<blockquote><pre>
+media.projects.common.switches.&#95;enable&#95;page&#95;seo&#95;overrides
+</pre></blockquote>
+<p></p>
+<h2><a name="Edit_SEO_Yala_String"></a>  Edit SEO Yala String </h2>
+<p></p>
+Find details on updating the SEO Yala strings, see <a href="http://twiki.corp.yahoo.com:8080/?url=https%3A%2F%2Fdocs.google.com%2Fa%2Fyahoo-inc.com%2Fdocument%2Fd%2F1sWwh2yaG_JUYi8yn6gv-Dc8tFGtCHF8coQhcJS964r0%2Fedit%3Fusp%3Dsharing&SIG=13knafd2f" target="_top">this document</a>.
+<p></p>
+<h2><a name="Regional_Contacts"></a>  Regional Contacts </h2>
+<p></p>
+For assistance with regional tagging issues, please contact:
+<p></p>
+<table cellspacing="0" id="table2" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=0;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Country</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=1;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Manager</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?sortcol=2;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Contact Details</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b>APAC</b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Australia/New Zealand </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Aidan Beanland </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=aidan" target="_top">Backyard profile</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b>EMEA</b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> EMEA </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Patrick Rexroth </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=rexroth" target="_top">Backyard Profile</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b>Americas</b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> Americas </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLast"> Tyler Vickers </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol foswikiLast"> <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=tyvick" target="_top">Backyard Profile</a> </td>
+		</tr>
+	</tbody></table>
+<p></p>
+<p></p>
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+-->
+</verbatim></verbatim></div><!-- /patternTopic--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/MetaDataStandardSEO?t=1383470335;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/MetaDataStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/MetaDataStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/MetaDataStandardSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r23&nbsp;<a rel="nofollow" href="/rdiff/Lego/MetaDataStandardSEO?rev1=23;rev2=22">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?rev=22">r22</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/MetaDataStandardSEO?rev1=22;rev2=21">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?rev=21">r21</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/MetaDataStandardSEO?rev1=21;rev2=20">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/MetaDataStandardSEO?rev=20">r20</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/MetaDataStandardSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/MetaDataStandardSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/MetaDataStandardSEO?t=1383470335;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/MetaDataStandardSEO?template=more&amp;maxrev=23&amp;currrev=23" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.MetaDataStandardSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/MetaDataStandardSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.MetaDataStandardSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-02.dt.corp.gq1.yahoo.com Sun Nov  3 09:18:55 UTC 2013 -->

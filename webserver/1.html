@@ -1,0 +1,19 @@
+<html>
+        <head></head>
+        <body><div id="appenditem"/>
+        <script>
+             if( (window.location.href).indexOf('?no')!=-1){
+		k = (window.location.href).split('=')[1];
+                if(k){
+		   for(var i=0;i<k;i++){
+			j = document.createElement('div');
+			j.innerHTML = i
+			j.addEventListner("click",function(){alert(1)})
+                        document.getElementById('appenditem').appendChild(j)
+		  }			    	
+		}
+             }
+	    	               
+        </script>
+        </body>
+</html>

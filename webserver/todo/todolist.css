@@ -1,0 +1,38 @@
+html{
+	background: url('images/noise.png') repeat 0 0;
+	font : 16px Arial,Helvetica;
+}
+#container{
+	width: 700px;
+	margin: 0 auto;
+}
+#hd{
+	font : bold 20px Arial,Helvetica;
+	background-color: #592880;
+	color : #FFFFFF;
+	height : 40px;
+	line-height: 40px;
+	margin-top: 40px;
+}
+#title{
+	margin: 0px auto;
+	width: 100px;
+}
+.mainlist{
+	background-color: #999999;
+	font-weight: bold;
+	border : 1px ridge #CCC;
+	line-height: 30px;
+}
+/*For sub items under main list*/
+.sublist{
+	font-weight: normal;
+	background-color: #F0FC00;
+	list-style: none;
+	padding-left: 20px;
+	height : 30px;
+	line-height: 30px;
+}
+.completed{
+	background-color: #666666;
+}

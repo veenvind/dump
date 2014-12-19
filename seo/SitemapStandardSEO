@@ -1,0 +1,1539 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> SitemapStandardSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/SitemapStandardSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit SitemapStandardSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/SitemapStandardSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<style type="text/css" media="all">
+@import url("http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.css");
+</style><!--EditTablePlugin/edittable.css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:18" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="SitemapStandardSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/SitemapStandardSEO?t=1383470336;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/SitemapStandardSEO?t=1383470336;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/SitemapStandardSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/SitemapStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/SitemapStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/SitemapStandardSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r36 - 05 Feb 2013 - 17:31:48 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.SitemapStandardSEO">SitemapStandardSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" />
+<!--  If you have questions, please don't hesitate to ask.    -->
+<!--       - <a href="mailto&#58;mit&#45;lego&#45;baseplate&#64;yahoo&#45;inc&#46;com">mit-lego-baseplate&#64;yahoo-inc.com</a>                 -->
+<p></p>
+  <!--  New Page basic info jump-started for your convenience   -->
+  <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<p></p>
+  <!--                   PAGE HEADER                            -->
+  <!--  The default header is generated from the page name.     -->
+  <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/>
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(document.getElementById("ylego-nav-SitemapStandardSEO")){document.getElementById("ylego-nav-SitemapStandardSEO").className +=" selected";}
+</script>
+<p></p>
+<div style="float:right;border:1px solid #ccc;font-size:85%;padding: 5px 20px; background-color: white;margin-left:30px;">
+<h4><a name="SEO_Standards_Chapters"></a> SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div>
+</div>
+<p></p>
+<h1><a name="Chapter_5:_XML_Sitemap_Standard"></a>  Chapter 5: XML Sitemap Standard </h1>
+<p></p>
+<p></p>
+  <!--                   TABLE OF CONTENTS                       --> 
+  <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#Introduction"> Introduction </a>
+</li> <li> <a href="#Sitemap_Standards"> Sitemap Standards </a>
+</li> <li> <a href="#Related_Sitemap_Requirements:"> Related Sitemap Requirements: </a>
+</li> <li> <a href="#Live_XML_Sitemaps"> Live XML Sitemaps </a>
+</li> <li> <a href="#Customized_Sitemaps"> Customized Sitemaps </a>
+</li> <li> <a href="#Implementing_Sitemaps"> Implementing Sitemaps </a>
+</li></ul> 
+</div>
+<p></p>
+<h2><a name="Introduction"></a>  Introduction </h2>
+<p></p>
+Each Yahoo! property is required to have the following XML Sitemaps enabled;
+<p></p>
+<blockquote>
+<pre>
+GENERIC XML SITEMAP
+All news articles and blog posts of a property, independant of them being unique to Yahoo! or not
+
+ORIGINAL CONTENT SITEMAP 
+This XML Sitemap is specific to Google News and &#42;only&#42; includes orginal content to Yahoo! (mainly blog posts)
+
+MULTI-MEDIA XML SITEMAPS
+Each Yahoo! property need to support one XML Sitemap for videos, and a separate one for photos.
+
+ENTITIES
+Content within entities type data base
+</pre>
+</blockquote>
+<p></p>
+<h2><a name="Sitemap_Standards"></a>  Sitemap Standards </h2>
+<p></p>
+<ol><li>
+<a href="http://twiki.corp.yahoo.com/view/Lego/GenericSitemapStandardSEO" target="_top">Generic Sitemap Standard</a>
+</li><li>
+<a href="http://twiki.corp.yahoo.com/view/Lego/OriginalSitemapStandardSEO" target="_top">Original Content Sitemap Standard</a>
+</li><li>
+<a href="http://twiki.corp.yahoo.com/view/Lego/MultimediaSitemapStandardSEO" target="_top">Multimedia Sitemaps Standard</a>
+</li><li>
+<a href="http://twiki.corp.yahoo.com/view/Lego/EntitiesSitemapStandardSEO" target="_top">Entities Sitemaps Standard</a>  
+</li></ol>
+<p></p>
+<h2><a name="Related_Sitemap_Requirements:"></a>  Related Sitemap Requirements: </h2>
+<p></p>
+<ul><li>
+<b>Include sitemap in Robots.txt</b><br />
+<i>User-agent: *
+<br />Disallow:<br />
+Sitemap: <a href="http://[cc].[property].yahoo.com/sitemap.xml" target="_top">http://[cc].[property].yahoo.com/sitemap.xml</a></i><br />
+Find more details in the <a href="http://twiki.corp.yahoo.com/view/Lego/RobotstxtStandardSEO" target="_top">Robots.txt standard</a>
+<br><br> 
+</li><li>
+<b>Set-up http request to resubmit original sitemap three times a day</b>
+<br />
+Find more information <a href="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.google.com%2Fsupport%2Fwebmasters%2Fbin%2Fanswer.py%3Fanswer%3D183669&SIG=128bjkd8n" target="_top">See Google Help Pages</a>
+</li></ul>
+<p></p>
+<h2><a name="Live_XML_Sitemaps"></a>  Live XML Sitemaps </h2>
+<p></p>
+This is a list of all live XML Sitemaps at the moment:
+<p></p>
+<p></p>
+<a name="edittable1"></a>
+<div class="editTable">
+<form name="edittable1" action="http://twiki.corp.yahoo.com/viewauth/Lego/SitemapStandardSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable1" method="post">
+<input type="hidden" name="ettablenr" value="1" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table1" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/SitemapStandardSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Property</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/SitemapStandardSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Country</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/SitemapStandardSEO?sortcol=2;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Domain</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Astrology </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.astrology.yahoo.com/sitemap.xml" target="_top">http://fr.astrology.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.oroscopo.yahoo.com/sitemap.xml" target="_top">http://it.oroscopo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.astrology.yahoo.com/sitemap.xml" target="_top">http://es.astrology.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.astrology.yahoo.com/sitemap.xml" target="_top">http://uk.astrology.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Autos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.cars.yahoo.com/sitemap.xml" target="_top">http://fr.cars.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.cars.yahoo.com/sitemap.xml" target="_top">http://de.cars.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.cars.yahoo.com/sitemap.xml" target="_top">http://it.cars.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.cars.yahoo.com/sitemap.xml" target="_top">http://es.cars.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.cars.yahoo.com/sitemap.xml" target="_top">http://uk.cars.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entertainment </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Malaysia </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://my.entertainment.yahoo.com/sitemap.xml" target="_top">http://my.entertainment.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Singapore </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://sg.entertainment.yahoo.com/sitemap.xml" target="_top">http://sg.entertainment.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.finanzas.yahoo.com/sitemap.xml" target="_top">http://ar.finanzas.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Australia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://au.finance.yahoo.com/sitemap.xml" target="_top">http://au.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Brasil </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.financas.yahoo.com/sitemap.xml" target="_top">http://br.financas.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.finance.yahoo.com/sitemap.xml" target="_top">http://ca.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada French </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr-ca.finance.yahoo.com/" target="_top">http://fr-ca.finance.yahoo.com/</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.finance.yahoo.com/" target="_top">http://fr.finance.yahoo.com/</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.finance.yahoo.com/sitemap.xml" target="_top">http://de.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Hong Kong </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://hk.finance.yahoo.com/sitemap.xml" target="_top">http://hk.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://in.finance.yahoo.com/sitemap.xml" target="_top">http://in.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.finance.yahoo.com/sitemap.xml" target="_top">http://it.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.finanzas.yahoo.com/sitemap.xml" target="_top">http://mx.finanzas.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> New Zealand </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://nz.finance.yahoo.com/sitemap.xml" target="_top">http://nz.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Singapore </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.finance.yahoo.com/sitemap.xml" target="_top">http://es.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.finance.yahoo.com/sitemap.xml" target="_top">http://es.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.finance.yahoo.com/sitemap.xml" target="_top">http://uk.finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://finance.yahoo.com/sitemap.xml" target="_top">http://finance.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Games </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.jeux.yahoo.com/sitemap.xml" target="_top">http://fr.jeux.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.spiele.yahoo.com/sitemap.xml" target="_top">http://de.spiele.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.giochi.yahoo.com/sitemap.xml" target="_top">http://it.giochi.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.juegos.yahoo.com/sitemap.xml" target="_top">http://es.juegos.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.games.yahoo.com/sitemap.xml" target="_top">http://uk.games.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://games.yahoo.com/sitemap.xml" target="_top">http://games.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.mujer.yahoo.com/sitemap.xml" target="_top">http://ar.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Brasil </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.mulher.yahoo.com/sitemap.xml" target="_top">http://br.mulher.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.shine.yahoo.com/sitemap.xml" target="_top">http://ca.shine.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada French </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr-ca.etre.yahoo.com/sitemap.xml" target="_top">http://fr-ca.etre.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Chile </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://cl.mujer.yahoo.com/sitemap.xml" target="_top">http://cl.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Colombia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://co.mujer.yahoo.com/sitemap.xml" target="_top">http://co.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.mujer.yahoo.com/sitemap.xml" target="_top">http://es-us.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.pourelles.yahoo.com/sitemap.xml" target="_top">http://fr.pourelles.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.lifestyle.yahoo.com/sitemap.xml" target="_top">http://de.lifestyle.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://in.lifestyle.yahoo.com/sitemap.xml" target="_top">http://in.lifestyle.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Indonesia </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://id.she.yahoo.com/sitemap.xml" target="_top">http://id.she.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.lifestyle.yahoo.com/sitemap.xml" target="_top">http://it.lifestyle.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Maktoob (EN) </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://en-maktoob.entertainment.yahoo.com/sitemap.xml" target="_top">http://en-maktoob.entertainment.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.mujer.yahoo.com/sitemap.xml" target="_top">http://mx.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Peru </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://pe.mujer.yahoo.com/sitemap.xml" target="_top">http://pe.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Phillipines </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ph.she.yahoo.com/sitemap.xml" target="_top">http://ph.she.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.tendencias.yahoo.com/sitemap.xml" target="_top">http://es.tendencias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.lifestyle.yahoo.com/sitemap.xml" target="_top">http://uk.lifestyle.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://shine.yahoo.com/sitemap.xml" target="_top">http://shine.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Venezuela </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ve.mujer.yahoo.com/sitemap.xml" target="_top">http://ve.mujer.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Vietnam </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://vn.nang.yahoo.com/sitemap.xml" target="_top">http://vn.nang.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Local Portals </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://bengali.yahoo.com/sitemap.xml" target="_top">http://bengali.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://kannada.yahoo.com/sitemap.xml" target="_top">http://kannada.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://malayalam.yahoo.com/sitemap.xml" target="_top">http://malayalam.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://marathi.yahoo.com/sitemap.xml" target="_top">http://marathi.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://tamil.yahoo.com/sitemap.xml" target="_top">http://tamil.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.movies.yahoo.com/sitemap.xml" target="_top">http://ca.movies.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.movies.yahoo.com/sitemap.xml" target="_top">http://fr.movies.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.kino.yahoo.com/sitemap.xml" target="_top">http://de.kino.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://in.movies.yahoo.com/sitemap.xml" target="_top">http://in.movies.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.cinema.yahoo.com/sitemap.xml" target="_top">http://it.cinema.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.cine.yahoo.com/sitemap.xmll" target="_top">http://es.cine.yahoo.com/sitemap.xmll</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.movies.yahoo.com/sitemap.xml" target="_top">http://uk.movies.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Music </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.music.yahoo.com/sitemap.xml" target="_top">http://ca.music.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.musica.yahoo.com/sitemap.xml" target="_top">http://es-us.musica.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.musica.yahoo.com/sitemap.xml" target="_top">http://mx.musica.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://music.yahoo.com/sitemap.xml" target="_top">http://music.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.noticias.yahoo.com/sitemap.xml" target="_top">http://ar.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Brazil </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.noticias.yahoo.com/sitemap.xml" target="_top">http://br.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.news.yahoo.com/sitemap.xml" target="_top">http://ca.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada French </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr-ca.actualites.yahoo.com/sitemap.xml" target="_top">http://fr-ca.actualites.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Chile </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://cl.noticias.yahoo.com/sitemap.xml" target="_top">http://cl.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Colombia </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://co.noticias.yahoo.com/sitemap.xml" target="_top">http://co.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.noticias.yahoo.com/sitemap.xml" target="_top">http://es-us.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.news.yahoo.com/sitemap.xml" target="_top">http://fr.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Greece </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://gr.news.yahoo.com/sitemap.xml" target="_top">http://gr.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.nachrichten.yahoo.com/sitemap.xml" target="_top">http://de.nachrichten.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Hong Kong </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://hk.news.yahoo.com/sitemap.xml" target="_top">http://hk.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://in.news.yahoo.com/sitemap.xml" target="_top">http://in.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Indonesia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://id.berita.yahoo.com/sitemap.xml" target="_top">http://id.berita.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.notizie.yahoo.com/sitemap.xml" target="_top">http://it.notizie.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Malaysia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://my.news.yahoo.com/sitemap.xml" target="_top">http://my.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Maktoob </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://maktoob.news.yahoo.com/sitemap.xml" target="_top">http://maktoob.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Maktoob English </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://en-maktoob.news.yahoo.com/sitemap.xml" target="_top">http://en-maktoob.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.noticias.yahoo.com/sitemap.xml" target="_top">http://mx.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Peru </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://pe.noticias.yahoo.com/sitemap.xml" target="_top">http://pe.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Phillipines </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ph.news.yahoo.com/sitemap.xml" target="_top">http://ph.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Rumania </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ro.stiri.yahoo.com/sitemap.xml" target="_top">http://ro.stiri.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Singapore </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://sg.news.yahoo.com/sitemap.xml" target="_top">http://sg.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> South Africa </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://za.news.yahoo.com/sitemap.xml" target="_top">http://za.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.noticias.yahoo.com/sitemap.xml" target="_top">http://es.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Taiwan </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://tw.news.yahoo.com/sitemap.xml" target="_top">http://tw.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.news.yahoo.com/sitemap.xml" target="_top">http://uk.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://news.yahoo.com/sitemap.xml" target="_top">http://news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Good Morning America </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://gma.yahoo.com/sitemap.xml" target="_top">http://gma.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Venezuela </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ve.noticias.yahoo.com/sitemap.xml" target="_top">http://ve.noticias.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Vietnam </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://vn.news.yahoo.com/sitemap.xml" target="_top">http://vn.news.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.omg.yahoo.com/sitemap.xml" target="_top">http://ar.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Brazil </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.omg.yahoo.com/sitemap.xml" target="_top">http://br.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.omg.yahoo.com/sitemap.xml" target="_top">http://ca.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Colombia </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://co.omg.yahoo.com/sitemap.xml" target="_top">http://co.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.omg.yahoo.com/sitemap.xml" target="_top">http://es-us.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.omg.yahoo.com/sitemap.xml" target="_top">http://de.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Greece </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://gr.omg.yahoo.com/sitemap.xml" target="_top">http://gr.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Hong Kong </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://hk.omg.yahoo.com/sitemap.xml" target="_top">http://hk.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.omg.yahoo.com/sitemap.xml" target="_top">http://it.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://in.omg.yahoo.com/sitemap.xml" target="_top">http://in.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Indonesia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://id.omg.yahoo.com/sitemap.xml" target="_top">http://id.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Korea </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://kr.celeb.yahoo.com/sitemap.xml" target="_top">http://kr.celeb.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Maktoob </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://maktoob.omg.yahoo.com/sitemap.xml" target="_top">http://maktoob.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.omg.yahoo.com/sitemap.xml" target="_top">http://mx.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Philippines </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ph.omg.yahoo.com/sitemap.xml" target="_top">http://ph.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Rumania </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ro.omg.yahoo.com/sitemap.xml" target="_top">http://ro.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> South Africa </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://za.omg.yahoo.com/sitemap.xml" target="_top">http://za.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.omg.yahoo.com/sitemap.xml" target="_top">http://es.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Taiwan </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://tw.omg.yahoo.com/sitemap.xml" target="_top">http://tw.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.omg.yahoo.com/sitemap.xml" target="_top">http://uk.omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://omg.yahoo.com/sitemap.xml" target="_top">http://omg.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Vietnam </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://vn.thegioisao.yahoo.com/sitemap.xml" target="_top">http://vn.thegioisao.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Real Estate </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://homes.yahoo.com/sitemap.xml" target="_top">http://homes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Screen </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.screen.yahoo.com/sitemap.xml" target="_top">http://de.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.screen.yahoo.com/sitemap.xml" target="_top">http://it.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Maktoob </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://maktoob.screen.yahoo.com/sitemap.xml" target="_top">http://maktoob.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Maktoob (EN) </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://en-maktoob.screen.yahoo.com/sitemap.xml" target="_top">http://en-maktoob.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.screen.yahoo.com/sitemap.xml" target="_top">http://es.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.screen.yahoo.com/sitemap.xml" target="_top">http://uk.screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://screen.yahoo.com/sitemap.xml" target="_top">http://screen.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.deportes.yahoo.com/sitemap.xml" target="_top">http://ar.deportes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Australia </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://au.sports.yahoo.com/sitemap.xml" target="_top">http://au.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Brazil </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.esportes.yahoo.com/sitemap.xml" target="_top">http://ar.esportes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.esporteinterativo.yahoo.com/sitemap.xml" target="_top">http://br.esporteinterativo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.sports.yahoo.com/sitemap.xml" target="_top">http://ca.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada French </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr-ca.sports.yahoo.com/sitemap.xml" target="_top">http://fr-ca.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.deportes.yahoo.com/sitemap.xml" target="_top">http://es-us.deportes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.eurosport.yahoo.com/sitemap.xml" target="_top">http://de.eurosport.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.eurosport.yahoo.com/sitemap.xml" target="_top">http://de.eurosport.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Hong Kong </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://hk.sports.yahoo.com/sitemap.xml" target="_top">http://hk.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Maktoob </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://maktoob.sports.yahoo.com/sitemap.xml" target="_top">http://maktoob.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.deportes.yahoo.com/sitemap.xml" target="_top">http://mx.deportes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> New Zealand </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://nz.sports.yahoo.com/sitemap.xml" target="_top">http://nz.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> India </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://cricket.yahoo.com/sitemap.xml" target="_top">http://cricket.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Indonesia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://id.olahraga.yahoo.com/sitemap.xml" target="_top">http://id.olahraga.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.eurosport.yahoo.com/sitemap.xml" target="_top">http://it.eurosport.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.deportes.yahoo.com/sitemap.xml" target="_top">http://mx.deportes.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Phillipines </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.sports.yahoo.com/sitemap.xml" target="_top">http://ca.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Singapore </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://sg.sports.yahoo.com/sitemap.xml" target="_top">http://sg.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.eurosport.yahoo.com/sitemap.xml" target="_top">http://es.eurosport.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Taiwan </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://tw.sports.yahoo.com/sitemap.xml" target="_top">http://tw.sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.eurosport.yahoo.com/sitemap.xml" target="_top">http://uk.eurosport.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://sports.yahoo.com/sitemap.xml" target="_top">http://sports.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> TV </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.tv.yahoo.com/sitemap.xml" target="_top">http://ar.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Brazil </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.tv.yahoo.com/sitemap.xml" target="_top">http://br.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.tv.yahoo.com/sitemap.xml" target="_top">http://es-us.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.tv.yahoo.com/sitemap.xml" target="_top">http://fr.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.tv.yahoo.com/sitemap.xml" target="_top">http://de.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.tv.yahoo.com/sitemap.xml" target="_top">http://it.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.tv.yahoo.com/sitemap.xml" target="_top">http://mx.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.tv.yahoo.com/sitemap.xml" target="_top">http://es.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.tv.yahoo.com/sitemap.xml" target="_top">http://uk.tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> US </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://tv.yahoo.com/sitemap.xml" target="_top">http://tv.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Weather </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Argentina </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ar.tiempo.yahoo.com/sitemap.xml" target="_top">http://ar.tiempo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Canada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://ca.weather.yahoo.com/sitemap.xml" target="_top">http://ca.weather.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Canada French </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr-ca.meteo.yahoo.com/sitemap.xml" target="_top">http://fr-ca.meteo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Brazil </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://br.tempo.yahoo.com" target="_top">http://br.tempo.yahoo.com</a> /sitemap.xml </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Chile </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://cl.clima.yahoo.com/sitemap.xml" target="_top">http://cl.clima.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Colombia </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://co.clima.yahoo.com/sitemap.xml" target="_top">http://co.clima.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Espanol </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es-us.clima.yahoo.com/sitemap.xml" target="_top">http://es-us.clima.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> France </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://fr.meteo.yahoo.com/sitemap.xml" target="_top">http://fr.meteo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Germany </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://de.wetter.yahoo.com/sitemap.xml" target="_top">http://de.wetter.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Italy </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://it.meteo.yahoo.com/sitemap.xml" target="_top">http://it.meteo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mexico </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://mx.clima.yahoo.com/sitemap.xml" target="_top">http://mx.clima.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Peru </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://pe.clima.yahoo.com/sitemap.xml" target="_top">http://pe.clima.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Spain </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://es.tiempo.yahoo.com/sitemap.xml" target="_top">http://es.tiempo.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> UK </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLastCol"> <a href="http://uk.weather.yahoo.com/sitemap.xml" target="_top">http://uk.weather.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLast"> US </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2 foswikiLastCol foswikiLast"> <a href="http://weather.yahoo.com/sitemap.xml" target="_top">http://weather.yahoo.com/sitemap.xml</a> </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<h2><a name="Customized_Sitemaps"></a>  Customized Sitemaps </h2>
+<p></p>
+The Lego default includes; 
+<p></p>
+<ul><li>
+'Stories' - news articles
+</li><li>
+'Original' - original content for Google News
+</li><li>
+'Pages' - categories
+</li><li>
+'Video' 
+</li><li>
+'Photos'
+</li></ul>
+<p></p>
+Not all properties use all types of Sitemaps, or need customized ones. To remove sitemaps that are not applicable to a property, add the following configuration in your property YCB (to remove 'Video' for example): 
+<p></p>
+<blockquote>
+<pre>
+    &#60;Setting dimensions&#61;&#34;site,region,lang&#34;&#62;
+        &#60;Node match&#61;&#34;news,US,en-US&#34;&#62;
+            &#60;Property name&#61;&#34;media.modules.sitemap.content&#95;types&#34;&#62;stories,photos,pages&#60;/Property&#62;
+        &#60;/Node&#62; 
+    &#60;/Setting&#62;
+</pre>
+</blockquote>
+<br>
+<p></p>
+<p></p>
+<p></p>
+<h2><a name="Implementing_Sitemaps"></a>  Implementing Sitemaps </h2>
+<p></p>
+Find information on implementation <a href="http://twiki.corp.yahoo.com/view/Lego/EngSitemap" target="_top">here</a>.
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+--></div><!-- /patternTopic--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/SitemapStandardSEO?t=1383470337;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/SitemapStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/SitemapStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/SitemapStandardSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r36&nbsp;<a rel="nofollow" href="/rdiff/Lego/SitemapStandardSEO?rev1=36;rev2=35">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/SitemapStandardSEO?rev=35">r35</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/SitemapStandardSEO?rev1=35;rev2=34">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/SitemapStandardSEO?rev=34">r34</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/SitemapStandardSEO?rev1=34;rev2=33">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/SitemapStandardSEO?rev=33">r33</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/SitemapStandardSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/SitemapStandardSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/SitemapStandardSEO?t=1383470337;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/SitemapStandardSEO?template=more&amp;maxrev=36&amp;currrev=36" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.SitemapStandardSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/SitemapStandardSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.SitemapStandardSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-02.dt.corp.gq1.yahoo.com Sun Nov  3 09:18:56 UTC 2013 -->

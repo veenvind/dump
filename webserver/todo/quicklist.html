@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Quick List</title>
+</head>
+<body>
+	<div id="container">
+	</div>
+<script src="../libraries/react-0.10.0/build/react.js"></script>
+<script>
+  function addTask(e,id){
+    alert("gdgf");
+  }
+
+  var plusImage= React.createClass({
+    render: function(){
+      return React.DOM.svg( {version:"1.1", baseProfile:"full", width:"15px", height:"15px", xmlns:"http://www.w3.org/2000/svg"},
+               React.DOM.circle({cx:"7",cy:"7",r:"5",fill:"yellow",onClick:addTask}),
+               React.DOM.line({x1:"7", x2:"7", y1:"3", y2:"11", "strokeWidth":"2", stroke:"green"}),
+               React.DOM.line({x1:"3", x2:"11", y1:"7", y2:"7", "strokeWidth":"2", stroke:"green"})
+        );
+    }
+  });
+
+  var Task = React.createClass({
+    render: function(){
+      return React.DOM.li({className:"task",id:this.props.Task.tid},this.props.Task.desc);
+    }
+  });
+
+  var TaskList = React.createClass({
+    render: function(){
+      var tasks=this.props.Tasks.map(
+        function(task){
+          return Task({"Task":task});
+        }
+      );
+      return React.DOM.ul({id:'task-list'},tasks);
+    }
+  });
+
+  var Story=React.createClass({
+    render: function(){
+      return React.DOM.li(
+        {className:"story",id:this.props.Story.sid},  //ATTS for this div
+        this.props.Story.desc,plusImage(),                        //TextNode
+        this.props.Story.Tasks?TaskList({"Tasks":this.props.Story.Tasks}):null //CHILD NODES
+      );
+    }
+  });
+
+  var StoryList=React.createClass({
+    render: function(){
+      var stories=this.props.Stories.map(
+        function(story){
+          return Story({"Story":story});
+        }
+      );
+      return React.DOM.ul({id:'story-list'},stories);
+    }
+  });
+
+  var Stories={"Stories":[
+    {"sid":"S1111","desc":"asdfsdf","Tasks":[{"tid":"T1111","desc":"task one"},{"tid":"T1112","desc":"task two"}]},
+    {"sid":"S1112","desc":"asdfsdf"},
+    {"sid":"S1113","desc":"asdfsdf"},
+    {"sid":"S1114","desc":"asdfsdf"}
+  ]};
+  React.renderComponent(StoryList(Stories),document.getElementById('container'));
+</script>
+</body>
+</html>

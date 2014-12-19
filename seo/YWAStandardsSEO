@@ -1,0 +1,2019 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> YWAStandardsSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/YWAStandardsSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit YWAStandardsSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<style type="text/css" media="all">
+@import url("http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.css");
+</style><!--EditTablePlugin/edittable.css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:19" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="YWAStandardsSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/YWAStandardsSEO?t=1383470360;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/YWAStandardsSEO?t=1383470360;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/YWAStandardsSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/YWAStandardsSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/YWAStandardsSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/YWAStandardsSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r26 - 01 Jul 2013 - 16:36:45 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.YWAStandardsSEO">YWAStandardsSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" /> <!--  If you have questions, please don't hesitate to ask.    --> <!--       - <a href="mailto&#58;lego&#45;questions&#64;yahoo&#45;inc&#46;com">lego-questions&#64;yahoo-inc.com</a>                 --> <p></p>
+<!--  New Page basic info jump-started for your convenience   --> <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<!--                   PAGE HEADER                            --> <!--  The default header is generated from the page name.     --> <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/> 
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div> <script type="text/javascript"> if(document.getElementById("ylego-nav-YWAStandardsSEO")){document.getElementById("ylego-nav-YWAStandardsSEO").className +=" selected";} </script>
+<p></p>
+<div style="float: right; border: 1px solid #ccc; font-size: 85%; padding: 5px 20px; background-color: white; margin-left: 30px;">
+<p></p>
+<h4><a name="SEO_Standards_Chapters"></a>  SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div></div>
+<p></p>
+<h1><a name="Chapter_22:_YWA_Standard"></a>  Chapter 22: YWA Standard </h1>
+<p></p>
+<!--                   TABLE OF CONTENTS                       --> <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#Introduction"> Introduction </a>
+</li> <li> <a href="#SEO_Tracking_Strategy"> SEO Tracking Strategy </a>
+</li> <li> <a href="#Yahoo_33_YWA_Standard"> Yahoo! YWA Standard </a>
+</li> <li> <a href="#Desktop_Web_and_Mobile_Web_Reporting_Projects"> Desktop Web and Mobile Web Reporting Projects </a>
+</li> <li> <a href="#Enable_YWA"> Enable YWA </a>
+</li> <li> <a href="#Determining_if_YWA_is_on_your_property"> Determining if YWA is on your property </a>
+</li> <li> <a href="#Instructions_for_getting_access_to_YWA"> Instructions for getting access to YWA </a>
+</li> <li> <a href="#Current_YPP_Project_IDs"> Current YPP Project IDs </a>
+</li></ul> 
+</div>
+<p></p>
+<h2><a name="Introduction"></a>  Introduction </h2>
+<p></p>
+When a property requieres low latency and customizable analytics, the tool to use is 'Yahoo! Web Analytics'. This standard outlines the standard process for enabling YWA, and the required set-up. Yahoo! Web Analytics (YWA) has up to now been a adhoc tool for specific tracking reasons (video data for example), however it now has the resources to be a holistic tool which requires a standard approach to creating projects for each property.
+<p></p>
+YWA is also the preferred tool for low latency and granular organic search tracking (SEO). <a href="http://semantic.corp.yahoo.com/seo/tab_globalviewreport.php" target="_top">SEMantic</a>, the old SEO tracking tool is turned off and being replaced by two tools:
+<ol><li>
+Digits 2.0 'Traffic Source Report' as source of truth for monthly SEO data 
+</li><li>
+YWA for daily tracking of trending topics.
+</li></ol>
+<p></p>
+<h2><a name="SEO_Tracking_Strategy"></a>  SEO Tracking Strategy </h2>
+<p></p>
+The official tracking strategy of SEO referrals is divided into two tools (see <a href="http://twiki.corp.yahoo.com/view/Lego/TrackingToolSEO#SEO_Tracking_Strategy" target="_top">complete SEO tracking strategy here</a>):
+<p></p> <ul>
+<li> <strong>HOLISTIC REPORTING</strong> <br />Use Digits 'Traffic Source Report' for holistic SEO reporting. <br />Advantages:  <ol>
+<li> Includes any Yahoo! property with Yahoo! property ID automatically for scale.
+</li> <li> Includes PVs related to SEO clicks to compare contribution from SEO projects on the same basis as the rest of the company (PVs)
+</li> <li> No limits to Referral Recognition sources
+</li></ol> 
+</li></ul> 
+<p></p> <ul>
+<li> <strong>GRANULAR REPORTING</strong> <br />Use Yahoo! Web Analytics (YWA) for daily monitoring of traffic. <br />Advantages:  <ol>
+<li> Close to realtime access to data
+</li> <li> Saves company resources migrating current SEO tool (SEMantic tool) to new feed.
+</li> <li> No limits to Referral Recognition sources
+</li> <li> There is no intention to compare data from Digits and YWA; Digits &lsquo;Traffic Source Report&rsquo; is the source of truth for SEO referrals, and YWA is the tool to be used by regional SEO managers on a daily basis to get fast data on how Yahoo! is performing on trending topics.
+</li></ol> 
+</li></ul> 
+<p></p> <ul>
+<li> <strong>SUMMARY</strong> <br />With this approach the SEO team assure:  <ol>
+<li> Fast data for regional SEO managers/editors to follow trending topics - via YWA.
+</li> <li> A holistic traffic source including PVs from SEO projects for executive reporting, showing the value of organic search to the business based on the PVs it generates, not only 'Visits' - via Digits.
+</li> <li> Using the same data source as the rest of the company facilitates comparison with other business units/sources of traffic to Yahoo! (SEM, social etc.) - via Digits.
+</li></ol> 
+</li></ul> 
+<p></p>
+<h2><a name="Yahoo_33_YWA_Standard"></a>  Yahoo! YWA Standard </h2>
+<p></p>
+<blockquote>
+Given the said <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#SEO_Tracking_Strategy">SEO Tracking Strategy</a>, the Yahoo! YWA standard requieres the following properties to enable Yahoo! Web Analytics globally for low latency and customizable SEO analytics:
+<p></p> <ul>
+<li> Answers
+</li> <li> Autos
+</li> <li> Flickr
+</li> <li> Finance
+</li> <li> Groups
+</li> <li> Local
+</li> <li> Mail
+</li> <li> Movies
+</li> <li> Music
+</li> <li> News
+</li> <li> OMG!
+</li> <li> Screen
+</li> <li> Shine/Lifestyles
+</li> <li> Shopping
+</li> <li> Sports
+</li> <li> Travel
+</li> <li> TV
+</li></ul> 
+<p></p>
+For any other property, the usage of YWA is optional. If a property wants to enable the tool, they should follow the <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#Enable_YWA">YWA onboarding process</a>
+</blockquote>
+<p></p>
+<h2><a name="Desktop_Web_and_Mobile_Web_Reporting_Projects"></a>  Desktop Web and Mobile Web Reporting Projects </h2>
+<p></p>
+In the past at Yahoo!, reporting of Mobile Web was done separately from Desktop Web. This harks back the time when Mobile Web meant WAP and such sites were built completely independently from the desktop experiences. Today, stakeholders relying on data to make decisions want metrics aggregated across all platforms; web, mobile and tablet. As such, there's a move away from separating hotlist structures into independent Mobile Web and Desktop branches and a move to consolidating under a common parent path. This allows for reports spanning Mobile and Desktop Web in Digits. Similarly, product teams should report on both these unders a single YWA project. 
+<p></p>
+However, caution must be applied here to ensure that the same traffic is being counted in the property's YWA project and under the single parent hotlist path for that property in Digits. Without ensuring the above, trust is lost in both YWA and Digits because users, who will invariably compare the numbers between the systems, don't have an easy way to determine how to make the comparisons across the systems when validating the data. Thus, the standard for desktop and mobile tracking within YWA is as follows:
+<p></p>
+Mobile Web and Desktop Web should only be reported in a common YWA project if the spaceids used for both experiences share a common parent hotlist path.
+<p></p>
+E.g. Here are the Hotlist Paths for the Desktop and Mobile versions of Frontpage:
+<p></p>
+/yahoo/site/main/metro<br>
+/yahoo/site/main/mobile<br>
+/yahoo/site/main/tablet<br>
+<p></p>
+They share a common parent (/yahoo/site/main/) and thus cross-experience metrics are available in Digits. It is therefore acceptable to have all the traffic for the above measured in a single YWA project because data in Digits for /yahoo/site/main/ can be compared to the aggregate numbers in the YWA project. If there is no common parent, then separate YWA projects should be used for Mobile Web and Desktop Web.
+<p></p>
+<h2><a name="Enable_YWA"></a>  Enable YWA </h2>
+<p></p>
+The process to enable YWA differs depending on the site being on the YPP platform or not:
+<p></p> <ul>
+<li> Determine if YWA is already enabled for your property by reviewing the <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#Current_YPP_Project_IDs" target="_top">current list of YPP enabled properties</a>.
+</li> <li> If your property is not on the list, it is worth double checking the site itself for YWA instrumentation, as <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#Determining_if_YWA_is_on_your_property" target="_top">per the below</a>. Please inform <a href="mailto&#58;data&#45;support&#45;ywa&#64;yahoo&#45;inc&#46;com">mailto&#58;data&#45;support&#45;ywa&#64;yahoo&#45;inc&#46;com</a> if YWA is enabled but not on the below list of <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#Current_YPP_Project_IDs" target="_top">existing YWA projects</a>.
+</li> <li> If YWA is enabled then follow the instructions below to <a href="http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO#Instructions_for_getting_access_to_YWA" target="_top">get access to the project</a>.
+</li> <li> If YWA is not enabled then please open a YWA request via <a href="http://support.data.yahoo.com" target="_top">http://support.data.yahoo.com</a> and the team will lead you through the onboarding process, including assessing how to best enable YWA in your environment.
+</li> <li> Please sign up for training at <a href="http://training.data.yahoo.com" target="_top">http://training.data.yahoo.com</a>
+</li></ul> 
+<p></p>
+The onboarding process is documented at <a href="http://twiki.corp.yahoo.com/view/SDSMain/YWAOnBoarding" target="_top">http://twiki.corp.yahoo.com/view/SDSMain/YWAOnBoarding</a>
+<p></p>
+<h2><a name="Determining_if_YWA_is_on_your_property"></a>  Determining if YWA is on your property </h2>
+<p></p> <ul>
+<li> Install <a href="http://twiki.corp.yahoo.com:8080/?url=https%3A%2F%2Fgetfirebug.com%2F&SIG=10rbc61hp" target="_top">Firebug for Firefox</a>.
+</li> <li> Go to the property front page in Firefox.
+</li> <li> Open Firebug and click on the 'Net' tab.
+</li> <li> Search for the string 'analytics.yahoo.com'.
+</li> <li> If you see 'o.analytics.yahoo.com' then YWA is on page (note 'o', could be 'a', or 'y')
+</li> <li> The project ID is in the 'a' parameter. Expand the request and click on 'Parameters' to see this:
+</li></ul> 
+<p></p>
+<h2><a name="Instructions_for_getting_access_to_YWA"></a>  Instructions for getting access to YWA </h2>
+<p></p> <ul>
+<li> You can get access to YWA without assistance now by going to <a href="https://reports-as.web.analytics.yahoo.com/servlet/action/InternalLogin" target="_top">the internal YYWA login</a>, and then entering the project id (see below list) for the property you need access to.
+</li> <li> When the property comes up, just click on 'Get Access' and you will be able to access the project.
+</li></ul> 
+<p></p>
+<h2><a name="Current_YPP_Project_IDs"></a>  Current YPP Project IDs </h2>
+<p></p>
+This is a list of current properties enabled in YWA: 
+<p></p>
+<a name="edittable1"></a>
+<div class="editTable">
+<form name="edittable1" action="http://twiki.corp.yahoo.com/viewauth/Lego/YWAStandardsSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable1" method="post">
+<input type="hidden" name="ettablenr" value="1" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table1" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/YWAStandardsSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Country</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/YWAStandardsSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Property</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/YWAStandardsSEO?sortcol=2;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Domain</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol3"> <a rel="nofollow" href="/view/Lego/YWAStandardsSEO?sortcol=3;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">YWA Project ID</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol4 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/YWAStandardsSEO?sortcol=4;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Comments</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Argentina</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ar.deportes.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1303764856 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ar.noticias.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1898620549 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ar.finanzas.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1971442831 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ar.screen.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 193662262 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyles </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ar.mujer.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1560006362 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ar.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 621429262 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ar.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 930013662 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Australia</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Yahoo!7 Network </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> Most AU media properties </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 579267015 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Not incl. travel, mail, answers, weather, games </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Total Travel </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> au.totaltravel.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1212917230 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Separate project, TT managed separately </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> YSM advertising </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> searchmarketing.yahoo.com.au </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1405677795 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Prime7 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> au.prime7.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 800821035 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> News partner site for regional Australia </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Brazil</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> br.noticias.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1007270156 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> br.noticias.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 952999720 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> br.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 239283156 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> br.deportes.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1946139456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> br.financas.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 967366303 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> br.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 477072556 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyles </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> br.lifestyles.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1960905862 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> br.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 443284562 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Canada</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ca.finance.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 894089256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ca.shine.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1196237456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Music </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ca.music.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1660326556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ca.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 586174356 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ca.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 801988156 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ca.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1567715756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Same as US </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ca.sports.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 800974962 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary account </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ca.weather.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 159752056 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Canada French</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr-ca.etre.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 899268756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> fr-ca.finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1539605556 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr-ca.meteo.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1000388356 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Chile</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> cl.mujer.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1469809962 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> cl.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1050505862 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Colombia</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> co.mujer.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1250515362 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> co.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 512776662 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> co.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1931166662 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">France</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr.finance.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1146590756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Front Page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> fr.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1546632962 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr.pourelles.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1580561056 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> fr.cinema.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 465171656 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr.actualites.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1316799956 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> fr.video.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 988754762 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> fr.tv.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 321634756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Germany</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Answers </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.answers.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1476813062 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Autos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.cars.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2016723762 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 748349856 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Games </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.spiele.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 335360256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Groups </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.groups.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 394249362 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.lifestyle.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 907455056 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.kino.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1873205162 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.nachrichten.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 98697856 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 2099067856 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.screen.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1924686362 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.eurosport.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 850865956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Travel </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.reisen.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1765948262 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> de.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1110946756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> de.wetter.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 821384762 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Hong Kong</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Deals </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> hk.deals.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 281487562 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> hk.lifestyle.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1112013656 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> hk.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1703554456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> hk.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 671450356 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> hk.sports.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 874565456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">India</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Cricket </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> cricket.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1913571556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Kannada </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> kannada.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1050753885 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> in.lifestyle.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 54591462 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> in.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 2127646256 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> in.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1812483862 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Tamil </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tamil.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 689634585 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Video </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> in.video.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1066749556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Indonesia</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Front Page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> id.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1377311235 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> id.she.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1250839256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> id.berita.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Tracking exist, no common account </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> id.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2112031535 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> id.olahraga.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 2051689156 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Italy</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> it.finance.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1716444256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> it.lifestyle.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1356504456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> it.cinema.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 516572556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Tracking exist, no common account </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> it.notizie.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1935166356 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Tracking exist, no common account </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> it.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1328147556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> it.eurosport.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1911203956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> it.tv.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1546559556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Korea</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> kr.finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1715320756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> kr.style.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1510958556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> kr.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1838882356 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> kr.celeb.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 501507285 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> kr.sports.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1340551356 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Maktoob</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> maktoob.helwa.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 69119956 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Common account </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> maktoob.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 69119956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Common account </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News EN </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> en-maktoob.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2142876956 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> maktoob.omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 69119956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Common account </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> maktoob.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1567715756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen EN </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> en-maktoob.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1567715756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Malaysia</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> my.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1496160756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Mexico</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> mx.deportes.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1305725556 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> mx.noticias.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 967314764 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> mx.finanzas.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 736199947 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> mx.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1709486662 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> mx.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1062870756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyles </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> mx.lifestyles.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 404100762 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> mx.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 34455962 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">New Zealand</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Y! NZ Network </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> Most NZ media properties </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1926534762 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> NZ Total Travel </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> nz.totaltravel.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 800053462 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Managed by external office in AU </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> NZ Deals </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> deals.yahoo.co.nz </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 673714162 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> 3rd party site </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Peru</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> pe.mujer.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1363636562 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> pe.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1812726562 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Philippines</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ph.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 91839085 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ph.sports.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 959893356 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Singapore</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Entertainment </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> sg.entertainment.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2041253585 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sg.finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Tracking exist, no common account </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> sg.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1443363756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Common for all </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sg.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1443363756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Common for all </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Spain</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Answers </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es.cars.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 811602562 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Autos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es.cars.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 2016723762 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es.finance.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1332261956 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es.tendencias.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 2053869656 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es.noticias.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 717653456 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es.omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1634386856 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es.eurosport.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1413588756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es.cine.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 10001467053656 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Taiwan</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Front Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tw.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1697310762 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Games </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tw.games.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1775026956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Mall </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tw.mall.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 38585535 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tw.movies.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1170057985 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tw.news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 189938756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tw.omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 605419585 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tw.sports.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2140022756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">UK</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Answers </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.answers.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 864761212 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Autos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.cars.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 613894962 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Front Page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1823570562 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.finance.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1421191256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Games </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.games.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1340019256 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Groups </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.groups.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1546620462 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.lifestyle.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1764049956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.movies.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2045532262 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Messenger </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.messenger.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1097189262 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> My! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.my.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 583379562 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1294714156 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 25643656 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 559348562 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.eurosport.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1634674656 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Travel </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.travel.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1216752162 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> uk.tv.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1812671956 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> uk.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1893796162 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">US</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Autos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> autos.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1625565779 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1840545256 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Flickr </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> flickr.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1561398679 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> flickr.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1329071179 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Android </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> flickr.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1471375179 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> iOS </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Games </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> games.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1642602377 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Excludes front page </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Help </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> help.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 379873063 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Homes </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> homes.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 282198256 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> shine.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 69651756 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> movies.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1073966479 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Music </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> music.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1060972056 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1256862979 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News GMA </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> gma.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 653164556 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1736502856 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Safely </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> safely.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 726271362 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1567715756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Shopping </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> shopping.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 721650256 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sports.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 800974962 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Travel </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> travel.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1668519179 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 307266862 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Upcoming </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> upcoming.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 487515489 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> weather.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1684311662 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">US Grand Slam</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Autos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> autos.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1027426579 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> finance.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 911397279 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Front Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1806365479 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Games </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> games.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1917502679 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Homes </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> homes.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 2097771579 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> shine.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1576721379 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Movies </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> movies.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1756052479 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Music </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> music.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 441301779 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> news.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1393120079 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> OMG </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> omg.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1376270579 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> screen.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 248675879 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sports.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1078001479 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Travel </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> travel.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 679888579 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1324295579 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Weather </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1425326979 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> Primary </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">US Spanish</font> </th>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es-us.noticias.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1397863095 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Sports </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es-us.deportes.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1901168056 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Finance </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es-us.finanzas.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 578525108 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es-us.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 893231856 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> Screen </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es-us.screen.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1116598756 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyles </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> es-us.mujer.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1960905862 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> es-us.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 1185507362 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Venezuela</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> ve.mujer.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1238728962 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> ve.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 531562162 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Vietnam</font> </th>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> Lifestyle </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> vn.nang.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 62827456 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> News </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> vn.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 62827456 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> OMG! </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> vn.thegioisao.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 604422585 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLast"> TV </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLast"> es.tv.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLast"> 871778956 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLastCol foswikiLast"> &nbsp; </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = Main.MarkusrYahoo 
+</li> <li> #Set ALLOWTOPICVIEW = Main.MarkusrYahoo 
+</li></ul> 
+-->
+</div><!-- /patternTopic--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/YWAStandardsSEO?t=1383470360;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/YWAStandardsSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/YWAStandardsSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/YWAStandardsSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r26&nbsp;<a rel="nofollow" href="/rdiff/Lego/YWAStandardsSEO?rev1=26;rev2=25">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/YWAStandardsSEO?rev=25">r25</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/YWAStandardsSEO?rev1=25;rev2=24">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/YWAStandardsSEO?rev=24">r24</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/YWAStandardsSEO?rev1=24;rev2=23">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/YWAStandardsSEO?rev=23">r23</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/YWAStandardsSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/YWAStandardsSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/YWAStandardsSEO?t=1383470360;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/YWAStandardsSEO?template=more&amp;maxrev=26&amp;currrev=26" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.YWAStandardsSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/YWAStandardsSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.YWAStandardsSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-03.dt.corp.gq1.yahoo.com Sun Nov  3 09:19:19 UTC 2013 -->

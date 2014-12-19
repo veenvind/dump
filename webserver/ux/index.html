@@ -1,0 +1,60 @@
+<!--HTML5 doctype instead of the HTML4 -->
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <title>UX Philosophy</title>
+    <!--Add required meta tags 
+      Charset
+      UA-Compatible for IE
+      Iframe Allowed
+      CORS 
+      Keywords for SEO
+      Description for SEO
+      site verification for Ggl-Anlytcs
+    -->
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div id="container">
+    </div>
+    <script src="../libraries/jquery-2.1.1.js" type="text/javascript"></script>
+    <script src="../libraries/react-0.10.0/build/react.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var Node = React.createClass({
+        render:function(){
+	  return React.DOM.div({className:"node",id:this.props.root.name},this.props.root.label);
+	}
+      });
+      var jsondata={"root":{"label":"UX Philosophy","name":"root"}};
+      React.renderComponent(Node(jsondata),document.getElementById("container"));
+    </script>
+    <script type="text/javascript">
+    window.onpopstate = function(event) {
+      alert("location: " + document.location + ", state: " + JSON.stringify(event.state));
+      };
+
+      $(document).ready(function(){
+        var navigation=function(){
+	  var url;
+	  var returnObj={
+	    supportsHistoryAPI: function() {
+	      return !!(window.history && history.pushState);
+	    },
+	    navigate: function(href){
+	      if(this.supportsHistoryAPI())
+	        history.pushState(null,"",href);
+	      else
+	        window.location.href=href.replace(/(http|https):\/\/(.*?)(\/)(.*)/,"$1://$2#$4");
+	      this.displayTargetPage(href);
+	    },
+	    displayTargetPage: function(href) {
+	      this.getTargetData().then(renderPage);
+	    }
+	  }
+	  return returnObj;
+	}();
+	console.log(navigation.supportsHistoryAPI());
+      });
+    </script>
+  </body>
+</html>

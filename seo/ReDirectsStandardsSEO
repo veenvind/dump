@@ -1,0 +1,849 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> ReDirectsStandardsSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/ReDirectsStandardsSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit ReDirectsStandardsSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<style type="text/css" media="all">
+@import url("http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.css");
+</style><!--EditTablePlugin/edittable.css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:19" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="ReDirectsStandardsSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ReDirectsStandardsSEO?t=1383470345;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ReDirectsStandardsSEO?t=1383470345;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/ReDirectsStandardsSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/ReDirectsStandardsSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/ReDirectsStandardsSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/ReDirectsStandardsSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r29 - 17 Jun 2013 - 22:44:50 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.ReDirectsStandardsSEO">ReDirectsStandardsSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" />
+<!--  If you have questions, please don't hesitate to ask.    -->
+<!--       - <a href="mailto&#58;mit&#45;lego&#45;baseplate&#64;yahoo&#45;inc&#46;com">mit-lego-baseplate&#64;yahoo-inc.com</a>                 -->
+<p></p>
+  <!--  New Page basic info jump-started for your convenience   -->
+  <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<p></p>
+  <!--                   PAGE HEADER                            -->
+  <!--  The default header is generated from the page name.     -->
+  <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/>
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(document.getElementById("ylego-nav-ReDirectsStandardsSEO")){document.getElementById("ylego-nav-ReDirectsStandardsSEO").className +=" selected";}
+</script>
+<p></p>
+<div style="float:right;border:1px solid #ccc;font-size:85%;padding: 5px 20px; background-color: white;margin-left:30px;">
+<h4><a name="SEO_Standards_Chapters"></a> SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div>
+</div>
+<p></p>
+<h1><a name="Chapter_11:_Redirects_Standards"></a>  Chapter 11: Redirects Standards </h1>
+<p></p>
+<p></p>
+  <!--                   TABLE OF CONTENTS                       --> 
+  <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#Introduction"> Introduction </a>
+</li> <li> <a href="#Yahoo_33_Redirect_Standard"> Yahoo! Redirect Standard </a>
+</li> <li> <a href="#Mapping_Priorities"> Mapping Priorities </a>
+</li> <li> <a href="#Types_of_Redirects"> Types of Redirects </a>
+</li> <li> <a href="#Host_Redirects"> Host Redirects </a>
+</li> <li> <a href="#Technical_Details"> Technical Details </a>
+</li> <li> <a href="#Canonical_Tag"> Canonical Tag </a>
+</li> <li> <a href="#Server_Responses"> Server Responses </a>
+</li></ul> 
+</div>
+<p></p>
+<p></p>
+<h2><a name="Introduction"></a>  Introduction </h2>
+<p></p>
+Redirects are one of the key tools for maintaining SEO value within a site. From a ranking perspective, link authority has a big impact on ranking. It takes a lot of time to make a site become an authority on the Internet, achieving many inbound links from other trusted and relevant sources. At the same time the product will evolve over time and URLs change, so by not creating correct redirects, the link authority will not be transferred from the old URL to the new URL but simply disappear. 
+<p></p>
+By not doing correct redirects, we are throwing away a competitive advantage. Not setting up page to page redirects results in a <b>40-60% loss of SEO traffic that will take around 4-6 months to recover</b>.  
+<p></p>
+The redirect mapping of a site onboarding Lego is the only blocker set from the SEO team, see <a href="http://twiki.corp.yahoo.com/view/Lego/LegoChecklistSEO" target="_top">the Yahoo! SEO Checklist</a> (SEO32 and SEO33) alongside the domain and URL structure.  
+<p></p>
+<h2><a name="Yahoo_33_Redirect_Standard"></a>  Yahoo! Redirect Standard </h2>
+<p></p>
+<ol><li>
+<b>Migrating URLs</b>
+<ul><li>
+The 301 redirect is the default response code for migrating content from old to new version. 
+</li><li>
+The 301 redirects are set page to page, see priority list <a href="http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO#Mapping_Priorities" target="_top">here</a>.
+</li><li>
+If there is no new version of the page on the new site, the use cases are:
+<ul><li>
+Category/event/entity pages: 301 redirected to closest relevant category, or property front page as back-up. 
+</li><li>
+Leaf pages (news article, blog post, individual photo or video): redirect to category - /news/, /blogs/, /photos/ or /video/. 
+</li></ul>
+</li></ul>
+</li><li>
+<b>Expiring URLs</b>
+<ul><li>
+Unique content created within Yahoo! should not be expired. 
+</li><li>
+Syndicated content (news articles, videos and photos) return a 410 error page once expired to properly flush from the index. Find details around the <a href="http://twiki.corp.yahoo.com/view/Lego/ErrorPageStandardSEO" target="_top">Lego error page here</a>.
+</li><li>
+Expired category/event/entity pages 301 redirect to closest category, or default to property front page. 
+</li><li>
+Properties need to implement their specific redirects using YUB routes in their site project. See details <a href="http://twiki.corp.yahoo.com/view/Lego/EngThePage#Redirect_Routes" target="_top">here</a>.
+</li><li>The 302 redirect should only be used if the content is being moved to a different URL and will be moved back in a period of less than two months months. 
+</li></ul>
+</li><li>
+<b>Canonical Re-Directs</b>
+<ul><li>
+Canonical redirects needs to be set-up for front page and index pages. See details <a href="http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO#Types_of_Redirects" target="_top">here</a>. 
+</li></ul>
+</li><li>
+<b>Vanity/Marketing URLs</b>
+<ul><li>
+Vanity redirects needs to be set-up for any promotional URL used. See details <a href="http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO#Types_of_Redirects" target="_top">here</a>.
+</li></ul>
+</li><li>
+<b>Language Related URLs</b>
+<ul><li>
+The canonical version of a domain name is always the normalized version. Lego does support the domain format including special characters, 301 redirecting to the canonical domain. See details <a href="http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO#Types_of_Redirects" target="_top">here</a>.
+</li></ul>
+</li><li>
+<b>IP redirects</b>
+<ul><li>
+IP redirects are not permitted as it severely lowers accessibility of the site. As all mayor search engines have US IPs when crawling, a site with an IP redirect depending on location, will have the search engine always viewing the US version of the site. 
+</li></ul>
+</li><li>
+<b>The Canonical Tag</b>
+<ul><li>
+The canonical tag needs to be supported. The tag should not be used for redirecting old content to new. It is instead used to assure canonical version for re-published articles, blog posts and individual photos and videos. For more information on canonical tags, see <a href="http://twiki.corp.yahoo.com/view/Lego/CanonicalTagSEO" target="_top">here</a>.
+</li></ul>
+</li></ol>
+<p></p>
+<h2><a name="Mapping_Priorities"></a>  Mapping Priorities </h2>
+<p></p>
+<ul><li><b>Priority 1</b>
+<ul><li>Index pages
+</li><li>Blog index pages
+</li><li>Individual blog entries (all)
+</li><li>Entities (celebrity/sports/actor/movie data base/horoscopes etc.)
+</li><li>Yahoo! Contributor Network articles
+</li></ul>
+</li><li><b>Priority 2</b>
+<ul><li>Syndicated news articles
+</li></ul>
+</li><li><b>Priority 3</b>
+<ul><li>Individual photos
+</li><li>Individual videos
+</li></ul>
+</li></ul>
+<p></p>
+The priority is to cover the most traffic generating pages (category pages and entity pages) and the unique content to Yahoo! (blog and YCN).
+<p></p>
+The video and photos are P3 as they are currently generating a very low percentage of the overall SEO traffic (less than 3%). 
+<p></p>
+<h2><a name="Types_of_Redirects"></a>  Types of Redirects </h2>
+<p></p>
+<ul><li><b>Canonical redirect</b><br>  
+Any single page should only be made available through one single persistent url. This URL is the page's canonical url. Any other versions of the URL returning the same content should be redirected to the canonical url using a 301 redirect. For example:
+<ul><li><i>www.[cc].[domain].yahoo.com/index.html
+</li><li>www.[cc].[domain].yahoo.com/
+</li><li>www.[cc].[domain].yahoo.com
+</li><li>[cc].[domain].yahoo.com/index.html
+</li><li>[cc].[domain].yahoo.com</i>
+<br>should all 301 redirect to the canonical version
+</li><li><i>[cc].[domain].yahoo.com/</i>
+</li></ul>
+</li><li><b>Vanity redirect</b><br>
+All domains used for promotional reasons should be 301 redirected to the canonical domain, for example:
+<ul><li><i>www.yahoo.[cc]/[domain]
+</li><li>www.[marketing-domain].com/</i>
+<br>should 301 redirect to canonical domain
+</li><li><i>[cc].[domain].yahoo.com/</i>
+</li></ul>
+</li><li><b>Language redirects</b><br>
+Redirect relevant URL versions including accents or special characters to the canonical domain:
+<ul><li><i>fr-ca.être.yahoo.com</i>
+<br>should 301 redirect to canonical domain
+</li><li><i>fr-ca.etre.yahoo.com</i>
+</li></ul>
+</li></ul>
+<p></p>
+These kinds of redirects are applied to front page and index pages.
+<p></p>
+<h2><a name="Host_Redirects"></a>  Host Redirects </h2>
+<p></p>
+Any content in pre-production need to be properly blocked from indexation to assure that the content does not appear in the search engine index. The standard for domains that needs to be blocked:
+<p></p>
+<blockquote>
+<pre>
+Any content outside http://&#91;property].yahoo.com should be blocked from indexation.
+</pre>
+</blockquote>
+<p></p>
+Examples of domains outside the [property].yahoo.com include:
+<p></p>
+<ul><li>
+Individual servers; bf1.yahoo.com
+</li><li>
+IP based domains; 67.195.147.27/
+</li><li>
+Production servers; us-news.pdprev.global.media.yahoo.com
+</li></ul>
+<p></p>
+The re-write rules to apply (using OMG! as an example);
+<p></p>
+<blockquote>
+<pre>
+RewriteEngine On
+
+### Debug
+#RewriteLogLevel 9
+#RewriteLog      /tmp/rewrite.log
+
+YahooConnection ynet-flag
+
+RewriteCond   &#37;{HTTP&#95;HOST}              !^omg\.yahoo\.com$
+RewriteCond   &#37;{ENV:YNET&#95;INTERNAL&#95;IP}   !^1$
+RewriteRule   (.&#42;)                      http://omg.yahoo.com$1 &#91;R&#61;permanent,L]
+
+</pre>
+</blockquote>
+<p></p>
+<b>Follow up data</b>:
+<br>
+Colo-based domains were indexed in search, more than 30,000,000 million pages, as the solution outlined above was implemented to remove these pages. This is a follow-up to monitor the progress;
+<br>
+<p></p>
+<a name="edittable1"></a>
+<div class="editTable">
+<form name="edittable1" action="http://twiki.corp.yahoo.com/viewauth/Lego/ReDirectsStandardsSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable1" method="post">
+<input type="hidden" name="ettablenr" value="1" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table1" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Property</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">11-Sept</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=2;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">29-Nov</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol3"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=3;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">4-Dec</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol4"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=4;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">3-Jan</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol5"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=5;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">22-Feb</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol6"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=6;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">4-May</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol7 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?sortcol=7;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Percentage</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> bf1.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> 20,300,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> 20,300,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 20,300,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4"> 19,700,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol5"> 4,800,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol6"> 716,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -96% </b> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> sp2.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> 30,200,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> 29,900,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 29,700,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4"> 440,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol5"> 373,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol6"> 3,220,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -89% </b> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> kr3.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> 725,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> 706,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> 687,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4"> 468,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol5"> 251,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol6"> 76,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -89% </b> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> tw1.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> 11,500,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> 1,460,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> 1,440,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4"> 1,000,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol5"> 323,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol6"> 156,000 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -97% </b> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> ipv6.news.yahoo.com </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4"> 31,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol5"> 15,000 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol6"> 3,600 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -88% </b> </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> ipv6.omg.yahoo.com </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol4"> 14,600 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol5"> 12,100 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol6"> 4,200 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol7 foswikiLastCol"> <b> -70% </b> </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> <b> TOTAL </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLast"> <b> 62,725,000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLast"> <b> 52,366,000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLast"> <b> 51,127,000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol4 foswikiLast"> <b> 30,653,000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol5 foswikiLast"> <b> 5,774,000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol6 foswikiLast"> <b> 4,342,8000 </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol7 foswikiLastCol foswikiLast"> <b> -93% </b> </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<h2><a name="Technical_Details"></a>  Technical Details </h2>
+<p></p>
+Each site has a set of redirects that they implement from the legacy site to the new site. 
+<p></p> <ul>
+<li> <a href="http://twiki.corp.yahoo.com/view/Lego/EngThePage#Redirect_Routes" target="_top">How Redirects Are Created in Lego</a>
+</li> <li> <a href="http://svn.corp.yahoo.com/view/yahoo/media/common/projects/news/trunk/var/yub/paths.yml?revision=91489&amp;view=markup" target="_top">yub/paths.yml</a>
+</li></ul> 
+<p></p>
+<h2><a name="Canonical_Tag"></a>  Canonical Tag </h2>
+<p></p>
+The canonical tag is supported by all main search engines, and is a way to indicate the canonical version of a URL; it basically works as a redirect. The tag is added in the head of a document and looks like this:
+<p></p>
+<blockquote>
+<pre>
+&#60;link rel&#61;&#34;canonical&#34; href&#61;&#34;http://&#91;property].yahoo.com/amazing-example-page.html&#34;/&#62;
+</pre>
+</blockquote>
+<p></p>
+Officially the search engines use this as a hint, not as a directive, and are mainly built to be used when parameter use creates a number of duplicated pages, the content rendered for each URL is very similar or exact and the canonical URL is the shortest version, for example: 
+<p></p>
+<ul><li>http://www.example.com/hats?cat=white
+</li><li>http://www.example.com/hats?cat=white&amp;sort=popular
+</li><li>http://www.example.com/hats?cat=white&amp;sort=newest
+</li></ul>
+<p></p>
+The find specific requirements on the canonical tag, see <a href="http://twiki.corp.yahoo.com/view/Lego/CanonicalTagSEO" target="_top">here</a>.
+<p></p>
+<h2><a name="Server_Responses"></a>  Server Responses </h2>
+<p></p>
+There are a number of different server responses, meaning the status code that are returned to your browser when you request a page, the most common ones being: 
+<p></p>
+<ul><li><b>200</b>: ok - the request was fulfilled. 
+</li><li><b>301</b>: permanently moved 
+</li><li><b>302</b>: temporarily moved
+</li><li><b>403</b>: forbidden - authorization required
+</li><li><b>404</b>: error page
+</li><li><b>410</b>: page gone
+</li><li><b>500</b>: internal error - the server encountered an unexpected condition which prevented it from fulfilling the request. 
+</li><li><b>999</b>: blocks abusive traffic. This is a Yahoo! response code only and should not be commented externally. <a href="http://twiki.corp.yahoo.com/view/Abuse/ErrorHelp999" target="_top">Read more</a>. 
+</li></ul>
+<p></p>
+From an SEO point of view the two that should work properly are the 301 and the 404 redirects. 
+<p></p>
+The 301 should be used whenever a new page has been created to update an existing one. To assure the link authority of the old version gets transferred to the new page, a 301 redirect should be set-up. If a 301 redirect is not used, the new page will take longer to start to rank as it starts with no inbound links, and during a long time it is likely for the old version to appear in the search engine result page instead of the new one, as the old one has link authority. This problem is avoided with the 301 re-direct.  
+<p></p>
+The 400 server response is used to flush the content from the search engine index. The time search engines spend crawling a site is limited, so a proper usage of error pages can improve the crawl coverage as the search engine will use the band width to crawl pages with content instead of error pages. The difference between a 404 and a 410 is that with the 404 the search engine will come back in 24 hours and if the page still returns 404, then flush the page. This is why it is better to use the 410 to save the search engine crawl band width that could be used elsewhere. 
+<p></p>
+If an error page does not return a 410 server response on the error page and instead redirects to a generic error page or returns a 200 server response, referred to as a <i>soft 404</i>, the search engine will have difficulties in understanding if the page should be included or not in the search engine index. More on the <a href="http://twiki.corp.yahoo.com/view/Lego/ErrorPageStandardSEO" target="_top">Yahoo! error page here</a>.
+<p></p>
+<p></p>
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+--></div><!-- /patternTopic--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ReDirectsStandardsSEO?t=1383470345;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/ReDirectsStandardsSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/ReDirectsStandardsSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/ReDirectsStandardsSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r29&nbsp;<a rel="nofollow" href="/rdiff/Lego/ReDirectsStandardsSEO?rev1=29;rev2=28">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?rev=28">r28</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/ReDirectsStandardsSEO?rev1=28;rev2=27">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?rev=27">r27</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/ReDirectsStandardsSEO?rev1=27;rev2=26">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/ReDirectsStandardsSEO?rev=26">r26</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/ReDirectsStandardsSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/ReDirectsStandardsSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/ReDirectsStandardsSEO?t=1383470345;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/ReDirectsStandardsSEO?template=more&amp;maxrev=29&amp;currrev=29" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.ReDirectsStandardsSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/ReDirectsStandardsSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.ReDirectsStandardsSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-02.dt.corp.gq1.yahoo.com Sun Nov  3 09:19:05 UTC 2013 -->

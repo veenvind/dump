@@ -1,0 +1,1277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd&SIG=11r95f8gu"><html xmlns="http://twiki.corp.yahoo.com:8080/?url=http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml&SIG=1109gd78h" xml:lang="en_US" lang="en_US">
+<head>
+<link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+<title> URLStandardSEO &lt; Lego &lt; Foswiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://twiki.corp.yahoo.com/edit/Lego/URLStandardSEO?_T=03 Nov 2013;nowysiwyg=1" type="application/x-wiki" title="edit URLStandardSEO" />
+<link rel="shortcut icon" href="http://backyard.yahoo.com/favicon.ico" type="image/x-icon" />
+<meta name="SCRIPTURLPATH" content="" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Jump" />
+<meta name="TEXT_SEARCH" content="Search" />
+<meta name="TEXT_NUM_TOPICS" content="Number of topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modify search" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/view/Lego/WebRss" />
+<base href="http://twiki.corp.yahoo.com/view/Lego/URLStandardSEO"></base>
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikilib.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiJavascripts/twikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/TWikiCompatibilitySkin/pattern.js"></script>
+<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/TWikiCompatibilitySkin/layout.css');
+@import url('/pub/System/TWikiCompatibilitySkin/style.css');
+@import url('/pub/System/TWikiCompatibilitySkin/colors.css');
+</style>
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#AD6BBF;
+	}
+		  #patternLeftBar .patternWebIndicator,
+		  .patternBookView .twikiTopRow {
+					 background-color:#AD6BBF;
+		  }
+		  #patternOuter {
+				/* gradient yellow of left bar and main */
+				background-image:url("/pub/System/TWikiCompatibilitySkin/gradient_yellow.gif");
+				background-repeat:repeat-x;
+		  }
+
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:no-repeat;}
+	#patternTopBarContents { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#AD6BBF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style type="text/css" media="all">
+
+@import url('http://twiki.corp.yahoo.com/pub/Policy/WebPreferences/hideleftbar.css');
+
+</style>
+<style type="text/css" media="all">
+  @import url('/pub/System/TWikiCompatibilitySkin/base.css');
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/TWikiCompatibilitySkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+
+<script src="http://twiki.corp.yahoo.com/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="http://twiki.corp.yahoo.com/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><style type='text/css' media='all'>
+ @import url('/pub/System/JSCalendarContrib/calendar-blue.css');
+ .calendar {z-index:2000;}
+</style><!--JSCalendarContrib/css-->
+<style type="text/css" media="all">
+@import url("http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.css");
+</style><!--EditTablePlugin/edittable.css-->
+<link rel="stylesheet" href="/pub/System/FootNotePlugin/styles.css" type="text/css" media="all" /><!--FOOTNOTEPLUGIN_LINKCSS-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<style type="text/css" media="all">
+.tableSortIcon img {padding-left:.3em; vertical-align:text-bottom;}
+.foswikiTable#twikiAttachmentsTable td {vertical-align:middle;}
+.foswikiTable#twikiAttachmentsTable th {vertical-align:middle;}
+.foswikiTable#twikiAttachmentsTable td {vertical-align:top;}
+.foswikiTable#twikiAttachmentsTable th {background-color:#ffffff;}
+.foswikiTable#twikiAttachmentsTable th.foswikiSortedCol {background-color:#eeeeee;}
+.foswikiTable#twikiAttachmentsTable th {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:link {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:visited {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:link font {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:visited font {color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:hover {color:#ffffff;background-color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable th a:hover font {color:#ffffff;background-color:#0066cc;}
+.foswikiTable#twikiAttachmentsTable tr.foswikiTableRowdataBg0 td {background-color:#ffffff;}
+.foswikiTable#twikiAttachmentsTable tr.foswikiTableRowdataBg0 td.foswikiSortedCol {background-color:#f5f5f5;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol0 {text-align:center;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol1 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol2 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol3 {text-align:right;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol4 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol5 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol6 {text-align:left;}
+.foswikiTable#twikiAttachmentsTable td.foswikiTableCol7 {text-align:center;}
+</style><!--TABLEPLUGIN_twikiAttachmentsTable-->
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/yahoo/yahoo-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/event/event-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/connection/connection-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dom/dom-min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/animation/animation.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/dragdrop/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/container.js"></script>
+<link rel="stylesheet" type="text/css" href="http://twiki.corp.yahoo.com/pub/System/YahooUserInterfaceContrib/build/container/assets/container.css" /> 
+<script language="JavaScript" type="text/javascript" src="/pub/System/JSPopupPlugin/JSPopupPlugin.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(InitJSPopups); 
+</script><!--JSPopupPlugin-->
+<link rel='stylesheet' href='/pub/System/TwistyPlugin/jquery.twisty.css?version=1.6.0' type='text/css' media='all' /><!--JQUERYPLUGIN::TWISTY: requires= missing ids: JavascriptFiles/foswikiPref-->
+<meta name="foswiki.PUBURL" content="http://twiki.corp.yahoo.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://twiki.corp.yahoo.com" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="03%20Nov%202013%20-%2009:18" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="twikicompatibility%20" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="URLStandardSEO" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="bpraveen" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Lego" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="BpraveenYahoo" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.BpraveenYahoo" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="" /> <!-- NAMEFILTER --><!--JQUERYPLUGIN::FOSWIKI::META-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.4.3.js'></script><!--JQUERYPLUGIN-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiPref.js"></script><!--JavascriptFiles/foswikiPref-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/calendar.js'></script><!--JSCalendarContrib/calendar-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/foswiki.js'></script><!--JSCalendarContrib/foswiki-->
+<script type='text/javascript' src='/pub/System/JSCalendarContrib/lang/calendar-en.js'></script><!--JSCalendarContrib/calendar-lang-->
+<script type='text/javascript' src='/pub/System/TwistyPlugin/jquery.twisty.js?version=1.6.0'></script><!--JQUERYPLUGIN::TWISTY-->
+</head>
+<body class="patternViewPage">
+<a name="PageTop"></a><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"> <div class="patternTop"><span class="patternToolBar twikiRight"><div class="patternToolBarButtons">
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/URLStandardSEO?t=1383470332;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span></span> 
+<span class="patternButton"><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/URLStandardSEO?t=1383470332;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span></span> 
+<span class="patternButton"><span><a href='/view/Lego/URLStandardSEO?raw=on;' rel='nofollow' title='View source without formatting' accesskey='s'>View <span class='foswikiAccessKey'>S</span>ource</a></span></span>
+<span class="patternButton"><a href="/attach/Lego/URLStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a></span><span class="patternButton"><a href="/view/Lego/URLStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a></span>
+<span class="patternButton"><a href="/genpdf/Lego/URLStandardSEO" title="Export to PDF" accesskey="D" rel="nofollow">P<span class='foswikiAccessKey'>D</span>F</a></span></div></span><!-- /patternToolBar--><br class="twikiClear" /></div><!--/patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r50 - 15 Feb 2013 - 17:28:55 <small>UTC</small> - <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a></span> </span><a href="/view/Main/WebHome">Foswiki</a><span class='twikiSeparator'> &gt; </span><img src="/pub/System/DocumentGraphics/web-bg-small.png" border="0" alt="" width="13" height="13" style="background-color:#AD6BBF" />&nbsp;<a href="/view/Lego/WebHome">Lego Web</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/UserGuide">UserGuide</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/SEO">SEO</a><span class='twikiSeparator'> &gt; </span><a href="/view/Lego/StandardsSEO">StandardsSEO</a><span class='twikiSeparator'> &gt; </span><span title="Lego.URLStandardSEO">URLStandardSEO</span><br class="twikiClear" /></div><!-- /patternHomePath-->
+<div class="patternContent"><div class="patternTopic"> <link rel="stylesheet" href="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/master.css" />
+<!--  If you have questions, please don't hesitate to ask.    -->
+<!--       - <a href="mailto&#58;mit&#45;lego&#45;baseplate&#64;yahoo&#45;inc&#46;com">mit-lego-baseplate&#64;yahoo-inc.com</a>                 -->
+<p></p>
+  <!--  New Page basic info jump-started for your convenience   -->
+  <!--  All HTML comments may be removed from the final draft!  -->
+<p></p>
+<p></p>
+  <!--                   PAGE HEADER                            -->
+  <!--  The default header is generated from the page name.     -->
+  <!--  Feel free to change (but do not remove) the header      -->
+<p></p>
+<!--- <div id="ylego-header"> -->
+<p></p>
+<style type="text/css">
+.topicItem {float:right ;font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; }
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+.logotop { float: left; clear: both }
+</style>
+<p></p>
+<div class="topicItem" ><span>Search</span><span>
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchFormTop" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchActionTop();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="25" />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">more...</a></i>
+</span></div>
+<p></p>
+<!--- </div> --->
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchActionTop()
+{
+  var theForm = document.SearchFormTop;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  theForm.action = 'http://twiki.corp.yahoo.com/search/Lego';
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.Teams;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<a href="http://twiki.corp.yahoo.com/view/Lego/WebHome"><img src="http://twiki.corp.yahoo.com/pub/Lego/WebPreferences/ylego_190.png" alt="Y! Lego" /></a>
+<br/>
+<div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="yog-grid">
+<li id="ylego-nav-WebHome" class="first"><a href="http://twiki.corp.yahoo.com/view/Lego"><span>Home</span></a></li>
+<li id="ylego-nav-pipeline"><a href="http://ci.global.media.corp.yahoo.com/"><span>Pipeline</span></a></li>
+<li id="ylego-nav-Using"><a href="http://twiki.corp.yahoo.com/view/Lego/UsingLego"><span>Using Lego</span></a></li>
+<li id="ylego-nav-Teams"><a href="http://twiki.corp.yahoo.com/view/Lego/Teams"><span>Teams</span></a></li>
+<li id="ylego-nav-Milestones"><a href="http://twiki.corp.yahoo.com/view/Lego/Releases"><span>Releases</span></a></li>
+<li id="ylego-nav-FAQs"><a href="http://forum.lego.corp.yahoo.com/phpbb/viewforum.php?f=107"><span>FAQs</span></a></li>
+<li id="ylego-nav-Support"><a href="http://twiki.corp.yahoo.com/view/Lego/Support"><span>Support</span></a></li>
+<li id="ylego-nav-Roadmap"><a href="http://twiki.corp.yahoo.com/view/Lego/LegoRoadmap"><span>Roadmap</span></a></li>
+<li id="ylego-nav-Sitemap" class="last"><a href="http://twiki.corp.yahoo.com/view/Lego/Sitemap"><span>Sitemap</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if(document.getElementById("ylego-nav-URLStandardSEO")){document.getElementById("ylego-nav-URLStandardSEO").className +=" selected";}
+</script>
+<p></p>
+<div style="float:right;border:1px solid #ccc;font-size:85%;padding: 5px 20px; background-color: white;margin-left:30px;">
+<h4><a name="SEO_Standards_Chapters"></a> SEO Standards Chapters </h4>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/StandardsSEO#Introduction"> Introduction </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Standard_in_a_Nutshell"> Standard in a Nutshell </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Top_SEO_Wins"> Top SEO Wins </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_1:_Domain_Standard"> Chapter 1: Domain Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_2:_URL_Standard"> Chapter 2: URL Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_3:_Alias_Generation_Standard"> Chapter 3: Alias Generation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_4:_Meta_Data_Creation_Standard"> Chapter 4: Meta Data Creation Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_5:_XML_Sitemap_Standard"> Chapter 5: XML Sitemap Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_6:_Pagination_Standard"> Chapter 6: Pagination Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_7:_Error_Page_Standard"> Chapter 7: Error Page Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_8:_Comments_Standard"> Chapter 8: Comments Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_9:_Progressive_Enhancement"> Chapter 9: Progressive Enhancement </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_10:_Schema_Standard"> Chapter 10: Schema Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_11:_Re_45Directs_Standard"> Chapter 11: Re-Directs Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_12:_Robots.txt_Standard"> Chapter 12: Robots.txt Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_13:_RSS_Standard"> Chapter 13: RSS Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_14:_Verification_Files_Standard"> Chapter 14: Verification Files Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_15:_Mobile_Standard"> Chapter 15: Mobile Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_16:_Content_Expiration_Standard"> Chapter 16: Content Expiration Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_17:_Contextual_Linking_Standard"> Chapter 17: Contextual Linking Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_18:_No_Follow_Standard"> Chapter 18: No Follow Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_19:_Canonical_Tag_Standard"> Chapter 19: Canonical Tag Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_20:_Syndication_Standard"> Chapter 20: Syndication Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_21:_URL_Normalization_Standard"> Chapter 21: URL Normalization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_22:_Yahoo_33_Web_Analytics_Standard"> Chapter 22: Yahoo! Web Analytics Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_23:_APP_Store_Optimization_Standard"> Chapter 23: APP Store Optimization Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_24:_Compromised_Content_Standard"> Chapter 24: Compromised Content Standard </a>
+</li> <li> <a href="/view/Lego/StandardsSEO#Chapter_25:_Google_News_Standard"> Chapter 25: Google News Standard </a>
+</li></ul> 
+</div>
+</div>
+<p></p>
+<h1><a name="Chapter_2:_URL_Creation_Standard"></a>  Chapter 2: URL Creation Standard </h1>
+<p></p>
+<p></p>
+  <!--                   TABLE OF CONTENTS                       --> 
+  <!--  Change or remove depth="3" to show more or fewer levels  -->
+<p></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="#URL_Structures_59_core_pages"> URL Structures; core pages </a>
+</li> <li> <a href="#URL_Structures_59_specific_pages"> URL Structures; specific pages </a>
+</li> <li> <a href="#URL_specifications"> URL specifications </a>
+</li> <li> <a href="#Special_Characters"> Special Characters </a>
+</li> <li> <a href="#Numeric_IDs"> Numeric IDs </a>
+</li> <li> <a href="#Stop_Words"> Stop Words </a>
+</li> <li> <a href="#Hubs_vs._Leaf"> Hubs vs. Leaf </a>
+</li> <li> <a href="#Com_45Score_in_URL"> Com-Score in URL </a>
+</li></ul> 
+</div>
+<p></p>
+<h2><a name="URL_Structures_59_core_pages"></a> URL Structures; core pages </h2>
+<p></p>
+<blockquote>
+<pre>
+Any deviations from the URL standards need to be signed-off by the SEO team. 
+</pre>
+</blockquote>
+<p></p>
+Contact <a href="http://backyard.yahoo.com/tools/g/employee/profile?user_id=markusr" target="_top">Markus Renstrom</a>
+<p></p>
+<p></p>
+<a name="edittable1"></a>
+<div class="editTable">
+<form name="edittable1" action="http://twiki.corp.yahoo.com/viewauth/Lego/URLStandardSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable1" method="post">
+<input type="hidden" name="ettablenr" value="1" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table1" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=0;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Categories</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=1;table=1;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">URL structure</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Home </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Category </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[category]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Sub-category </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[sub-category]/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> LEAF CONTENT </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> News articles </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/news/[article-title]-[id].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> PHOTOS </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Photos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/photos/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Photos category </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/photos/[category]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Photos slide-show </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/photos/[slideshow-name]/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Photo #1 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/photos/[slideshow-name]/[photo-title].html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Photo #2 </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/photos/[photo-title].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> VIDEOS </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Video hub </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/video/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Videos category </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/video/[category-name]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Video </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/video/[video-title].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Playlist </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/video/playlist/[playlist-name]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Playlist Video </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/video/playlist/[playlist-name]/[video-title].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> BLOGS </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Blogs A-Z </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Individual blog </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/[blog-name]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Blog entry </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/[blog-name]/[blog-entry].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Archive </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/[blog-name]/archive/[number].html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Archive By Author </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/[blog-name]/archive/[author-name]/[number].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Blog author </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/blogs/[author-name]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> TOPICS </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Topics A-Z </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/topics/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Topics </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/topics/[topics-name]/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Topics Videos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/topics/[topics-name]/videos.html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Topics Photos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/topics/[topics-name]/photos.html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Topics Archive </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/topics/[topics-name]/archive/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> ENTITIES </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Hub </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Category </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/[category].html </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Photos </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/photos/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Slideshow </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/photos/[slideshow-title]/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Slideshow Photo </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/photos/[slideshow-title]/[photo-title].html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Reviews </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/reviews/ </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Entity Review </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[entity-type]/[entity]/reviews/[review-title].html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> PAGINATION </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Page pagination </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[category]/archive/[number].html </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> EVENTS </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Special events </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/[event-name]/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> OTHER </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> RSS </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1 foswikiLastCol"> [property].yahoo.com/rss/ </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> Vertical Search </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLastCol foswikiLast"> [property].yahoo.com/search/ </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<h2><a name="URL_Structures_59_specific_pages"></a> URL Structures; specific pages </h2>
+<p></p>
+<p></p>
+<p></p>
+<a name="edittable2"></a>
+<div class="editTable">
+<form name="edittable2" action="http://twiki.corp.yahoo.com/viewauth/Lego/URLStandardSEO?crumb=5i9fA_fgMj3oWqYB0ok5Aw--#edittable2" method="post">
+<input type="hidden" name="ettablenr" value="2" />
+<input type="hidden" name="etedit" value="on" />
+<table cellspacing="0" id="table2" cellpadding="0" class="foswikiTable" rules="rows" border="1">
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=0;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Categories</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=1;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">URL structure</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=2;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Example URL</font></a> </th>
+			<th bgcolor="#22003B" valign="top" class="foswikiTableCol3 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=3;table=2;up=0#sorted_table" title="Sort by this column"><font color="#ffffff">Notes</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> ASTROLOGY </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Front Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> Depending on volumes, 'astrology' or 'horoscope' can be used </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Zodiac main page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /horoscope/[zodiac]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> /horoscope/aries/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Daily horoscope </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/[zodiac]/[type]-daily-[date].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /horoscope/aries/overview-daily-20120904.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Weekly horoscope </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /horoscope/[zodiac]/[type]-weekly-[week-nr].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> /horoscope/aries/overview-weekly-36.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Monthly horoscope </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/[zodiac]/[type]-monthly-[month].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /horoscope/aries/overview-monthly-september.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Yearly horoscope </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /horoscope/[zodiac]/[type]-yearly-[year].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> /horoscope/aries/overview-yearly-2012.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Event page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/[event-name] </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /horoscope/yearly-horoscope/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Chinese horoscope </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /horoscope/chinese/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Chinese zodiac main page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/chinese/[zodiac]/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /horoscope/chinese/ox/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Daily chinese horoscope </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /horoscope/chinese/[zodiac]/[type]-daily-[date].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> /horoscope/chinese/ox/overview-daily-20120904.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Yearly chinese horoscope </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /horoscope/chinese/[zodiac]/[type]-yearly-[year].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /horoscope/chinese/ox/overview-yearly-2012.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> RECIPES </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Front Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /food/recipes/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> /food/recipe/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Individual recipe </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /food/recipes/[recipe-name]-[uid].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> /food/recipe/chicken-osso-buco-536347.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> TV ENTITIES </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Main </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Archive </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/archive/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/archive/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Archive By Letter </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/archive/#[letter] </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/archive/#a </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Archive By Genre </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/archive/genre#[genre] </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/archive/genre#comedy </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Archive By Network </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/archive/network#[network] </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/archive/network#pbs </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Shows Archive By Decade </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/archive/decade#[decade] </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/archive/decade#90 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Name </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Season Overview </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/season-[nr]/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/season-6/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Episode archive </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/episodes/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/episodes/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Episode Overview </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/episodes/[episode-name]-[uid].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/episodes/the-one-with-ross-39s-new-girlfriend-12345.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Videos </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/videos/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/videos/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Photo Index </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/photos/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/photos/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Photo Slideshow </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/photos/[slideshow-name]/[individual-photo].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/photos/off-stage/having-lunch.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show News Index </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/news.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/news.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Cast </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/cast-crew.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/cast-crew.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Reviews </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/reviews/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/reviews/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Review (Single) </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /shows/[show-name]/reviews/[review-name].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/reviews/friends-best-show-ever.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Show Write Review </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /shows/[show-name]/reviews/write-review.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/shows/friends/reviews/write-review.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person Overview </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /person/[person-name]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person News Index </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /person/[person-name]/news.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/news.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person Photo Index </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /person/[person-name]/photos/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/photos/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person Photo Slideshow </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /person/[person-name]/photos/[slideshow-name]/[individual-photo].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/photos/red-carpet-photos/in-red-dress.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person Credits </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> /person/[person-name]/credits.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/credits.html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Person Biography </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> /person/[person-name]/biography.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> tv.yahoo.com/person/alexandra-holden/biography.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> WEATHER </b> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Country Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> [property].yahoo.com/[country]/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> weather.yahoo.com/sweden/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> State Page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> [property].yahoo.com/[country]/[state]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> weather.yahoo.com/united-states/california/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Forecast Page </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> [property].yahoo.com/[country]/[state]/[city-name]-[ID]/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> weather.yahoo.com/united-states/california/san-francisco-1234 </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Regional Page </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> [property].yahoo.com/regional/[region-name]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> weather.yahoo.com/regional/europe/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> <b> SPORTS ENTITIES </b> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> &nbsp; </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Discipline </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sports.yahoo.com/soccer/ <br /> sports.yahoo.com/golf/ <br /> sports.yahoo.com/tennis/ <br /> sports.yahoo.com/college/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Competition </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/[competition] </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> sports.yahoo.com/soccer/premier-league/ <br /> sports.yahoo.com/golf/pga/ <br /> sports.yahoo.com/tennis/french-open/ <br /> sports.yahoo.com/college/football/ </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Competition Sub-Category </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/[competition]/[category].html </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sports.yahoo.com/soccer/premier-league/ <br /> sports.yahoo.com/soccer/premier-league/news.html <br /> sports.yahoo.com/soccer/premier-league/photos.html <br /> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Unit competition </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/[competition]/[unit-competition]-[match-id].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> sports.yahoo.com/soccer/premier-league/arsenal-liverpool-[match-id].html <br /> sports.yahoo.com/golf/pga/round-2-[match-id].html <br /> sports.yahoo.com/tennis/french-open/borg-mcenroe-[match-id].html <br /> sports.yahoo.com/college/football/alabama-notre-dame-[match-id].html <br /> </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Team </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/[team]/ <br /> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2"> sports.yahoo.com/soccer/arsenal/ <br /> sports.yahoo.com/soccer/england/ <br /> sports.yahoo.com/college/usc/ <br /> sports.yahoo.com/nfl/49ers/ <br /> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1">
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol0 foswikiFirstCol"> Team Category </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol1"> sports.yahoo.com/[discipline]/[team]/[category].html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol2"> sports.yahoo.com/formula-1/ferrari/photos.html <br /> sports.yahoo.com/soccer/arsenal/news.html <br /> sports.yahoo.com/soccer/arsenal/photos.html </td>
+			<td bgcolor="#efefef" valign="top" class="foswikiTableCol3 foswikiLastCol"> &nbsp; </td>
+		</tr>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> Athlete </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol1 foswikiLast"> sports.yahoo.com/[discipline]/[player-name]-[uid]/ <br /> </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol2 foswikiLast"> sports.yahoo.com/soccer/anders-limpar-[player-id]/ <br /> sports.yahoo.com/college/johnny-manziel-[player-id]/ <br /> sports.yahoo.com/nfl/aaron-rodgers-[player-id]/ <br /> sports.yahoo.com/formula-1/fernando-alonso-[player-id]/ </td>
+			<td bgcolor="#ffffff" valign="top" class="foswikiTableCol3 foswikiLastCol foswikiLast"> &nbsp; </td>
+		</tr>
+	</tbody></table>
+<input type="hidden" name="ettablechanges" value="" />
+<input type="hidden" name="etheaderrows" value="0" />
+<input type="hidden" name="etfooterrows" value="0" />
+<input class="editTableEditImageButton" type="image" src="http://twiki.corp.yahoo.com/pub/System/EditTablePlugin/edittable.gif" alt="Edit this table" /> </form>
+</div><!-- /editTable -->
+<p></p>
+<p></p>
+<h2><a name="URL_specifications"></a> URL specifications </h2>
+<ul><li>
+There is a 8 keyword limit, with stop words stripped out, for leaf level content - news article, blog entry, video and photo title. This is to avoid long URLs and still maintain sufficient information for context.
+</li><li>
+Stop words are to be stripped out. See more details <a href="http://twiki.corp.yahoo.com/view/Lego/URLStandardSEO#Stop_Words" target="_top">here</a>.
+</li><li>
+All keywords are separated with dashes. Underscores should not be used as delimiter as it does not separate the keywords in the eye of the search engine, it will index two words as one.
+</li><li>
+All keywords are to be written out completely in lower case letters
+</li><li>
+All words in the URL are localized to the market
+</li><li>
+All characters should be in NFKC unicode normalized form. 
+</li><li>
+For special events, the content hub is created as a sub-directory. Further specifications:
+<ul><li>
+Special events are created on an existing property domain before using a special event like promotions.yahoo.com. 
+</li><li>
+Sub-domains should not be created for special events or recurring events to take advantage of the link authority and trust of the property domain.
+<ul><li>
+movies.yahoo.com/oscars/ vs. oscars.yahoo.com/oscars.movies.yahoo.com
+</li></ul>
+</li><li>
+URL for recurring events should not be dated to reuse the URL next year. Content from previous year is archived in a sub-directory.
+<ul><li>
+[property].yahoo.com/[event-name]/ - always point at this year's event
+</li><li>
+[property].yahoo.com/[event-name]/[year]/ - archived version from previous years
+</li></ul>
+</li></ul>
+</li><li>
+Special features or take-overs of entity pages should be done on the same URL, only switching the design of the page for the duration of the promotion. 
+</li></ul>
+<p></p>
+<h2><a name="Special_Characters"></a> Special Characters </h2>
+<blockquote>
+<pre>
+Standard: special characters are removed from URLs
+~ ! &#64; $ &#37; ^ &#38; &#42; + &#61; ( ) { } &#91; ] &#60; &#62; , . ¿ ? / \ : ; 
+</pre>
+</blockquote>
+<ul><li>
+Special characters are removed from the URLs.<br>
+For example:
+<br><i>New clothing line from H&amp;M</i> - /new-clothing-line-hm.html
+<br><i>The crisis: the answers</i> - /crisis-answers.html</li><li>
+Leading or trailing special characters are removed.</li><li>
+Multiple dashes would be replace with single dash.</li><li>
+Exceptions:<br>
+<ul><li>Dolar sign when not used next to a number, converts to "s"<br>
+For example: <i>Ke$ha</i> - /kesha.html
+</li><li>At sign within word converts to dash<br>
+For example: <i>Origin@l</i> - /origin-l.html</li><li>
+Underscore should always be converted to dash</li></ul></li><li>
+Non-ASCII characters are encoded to resolve in the browser. This is inline with the <a href="http://twiki.corp.yahoo.com/view/TrailBlazers/RequirementInternationalizedWebAddresses" target="_top">Globalization Team Standard</a>.
+<ul><li>Accents that are part of a character are enconded, for example <i>música</i>.
+</li></ul>
+</li><li>301 re-directs would be set-up from normalized to encoded version in the following cases.
+<ul><li>
+Index pages: include front page and category pages.</li><li>
+Primary content: for example, on Yahoo! Music the artist pages are the primary content. For the artist page of Beyoncé, /beyonce/ would redirect to /beyoncé/.<br>
+</li><li>Exception: when the primary content are articles, no redirects are set-up
+</li></ul></li></ul> 
+<p></p>
+For more details on Alias creation for leaf content, see <a href="http://twiki.corp.yahoo.com/view/Lego/AliasGenerationSEO" target="_top">Alias Generation</a>
+<p></p>
+<h2><a name="Numeric_IDs"></a> Numeric IDs </h2>
+<blockquote>
+<pre>
+Standard: URL should to the extent that it is possible not include UID
+</pre>
+</blockquote>
+<ul><li>
+A URL is given a value in the algorithm, meaning that this value is divided between all variables in the URL. By limiting any unnecessary sub-directories and numeric IDs, the value can be channeled to the sub-directories and keywords giving meaning to the URL.   
+</li><li>
+A clean URL is more likely to get better click through rate from the search engine result page.
+</li><li>In the case of using an ID, it should always be appended at the end of the URL separated with a dash instead of creating a separate sub-directory only including the ID. Adding the sub-directory, adds another unnecessary level to the URL.<ul><li>
+Correct: [property].yahoo.com/[category]/[article-title]-[ID].html</li><li>
+Incorrect: [property].yahoo.com/[category]/[article-title]/[ID]/</li></ul></li></ul>
+<p></p>
+<h2><a name="Stop_Words"></a> Stop Words </h2>
+<blockquote>
+<pre>
+Standard: Stop Words are removed from URLs
+</pre>
+</blockquote>
+<ul><li>
+Generic rule is to remove all stop words (the, it, and, or etc.).
+<ul><li>Exception 1: For Asian languages (Chinese, Japanese and Korean) stop words are included as stop words cannot be defined
+</li><li>Exception 2: Movie titles should include stop words as most movie titles are very short and removing stop words makes the meaning difficult to understand.
+</li></ul> 
+</li><li>
+Find attached a list of stop words for Chinese, English, French, German, Italian, Portuguese and Spanish 
+</li></ul> 
+<p></p>
+<h2><a name="Hubs_vs._Leaf"></a> Hubs vs. Leaf </h2>
+<ul><li>A sub-directory represents a level in the hierarchy of the property, which is why the number of sub-directories in a URL should be kept to a minimum to surface the content as close to the front page as possible.
+</li><li> 
+Any sub-directory should represent a functioning section on the property. Any Sub-directory returning a 404 should be excluded as it adds an unnecessary level to the hierarchy.
+</li><li>
+All non root level site directory should only contain a single content type. 
+</li><li>
+Root level URL - [property].yahoo.com/[xxx]/ - should only point to navigable sections or a single primary content type of the site. 
+<ul><li>
+Primary content on Movies are the movie entities which therefore live on the root alongside all navigable sections within Movies. 
+</li><li>
+Primary content on News are the articles that live on the root alongside all navigable sections of News. Within other properties, the news articles would live under /news/.
+</li></ul>
+</li><li>URLs should be constructed in a way so that directory points are content hubs and URL terminations (.html) denote leaf. The reason to use this approach is to semantically make the URL represent the position of the page in the hierarchy of a property. For example;<ul><li>
+      /photos/ - directory point with more content within the content hub</li><li>
+      /barack-obama-photo.html - article page with no further content beyond this point.</li></ul>
+        </li><li>For example; <i>/world-cup</i>, this could be a category with world cup related content or an article about the world cup. By using forward slashes or URL extension we indicate to search engines what type of content each page represents. 
+         </li><li>"Closing" the URL avoid creating duplicated content - /world-cup vs. /world-cup/. These pages return the same content but are indexed separately creating duplicated content with the consequence that any inbound links are split between two pages instead of reinforcing only one page as users will link to both versions. By always using the forward slash and .html termination, such duplication is limited.</li></ul>
+<p></p>
+<h2><a name="Com_45Score_in_URL"></a> Com-Score in URL </h2>
+For correct tracking of provider content within the Yahoo! network, a placeholder is required within the URL to distinguish content from one single provider. If this is needed, the variable is added as a suffix after the UID. 
+<p></p>
+<blockquote>
+<pre>
+&#91;property].yahoo.com/&#91;article-title]-&#91;uid]-&#91;provider-placeholder].html</pre>
+</blockquote>
+<p></p>
+The placeholder should be kept as short as possible to not take up too much real-estate in the URL.
+<p></p>
+<p></p>
+<hr />
+<p></p>
+<!--
+   Privileges 
+      To restrict who can change this page, remove the # from ...TOPICCHANGE (below)
+      To restrict who can view, remove the # from ...TOPICVIEW (below)
+<p></p>
+      DO NOT REMOVE the HTML comment tags around these Set commands.
+<p></p> <ul>
+<li> #Set ALLOWTOPICCHANGE = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li> <li> #Set ALLOWTOPICVIEW = <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> 
+</li></ul> 
+--></div><!-- /patternTopic--><div class="twikiAttachments">
+<div class="twistyPlugin foswikiMakeVisible"><span id="topicattachmentslist1show" style="display:none" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyInited"><a href="#" class=""><img src="/pub/System/DocumentGraphics/toggleopen.png" border="0" alt="" /><span class="foswikiLinkLabel foswikiUnvisited">Attachments</span></a></span><span id="topicattachmentslist1hide" style="display:none" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyInited"><a href="#" class=""><img src="/pub/System/DocumentGraphics/toggleclose.png" border="0" alt="" /><span class="foswikiLinkLabel foswikiUnvisited">Attachments</span></a></span></div><div class="twistyPlugin"><div id="topicattachmentslist1toggle" style="" class="twistyRememberSetting twistyContent twistyInited">
+<table summary="Topic attachments" cellspacing="0" id="twikiAttachmentsTable" cellpadding="0" class="foswikiTable" rules="rows" border="1"><caption>Topic attachments</caption>
+	<thead>
+		<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol0 foswikiFirstCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=0;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">I</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol1"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=1;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Attachment</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol2"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=2;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Action</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol3"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=3;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Size</font></a> </th>
+			<th bgcolor="#eeeeee" valign="middle" class="foswikiTableCol4 foswikiSortedAscendingCol foswikiSortedCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=4;table=3;up=1#sorted_table" title="Sort by this column"><font color="#0066cc">Date</font></a><span class="tableSortIcon tableSortUp"><img width="11" alt="Sorted ascending" src="/pub/System/DocumentGraphics/tablesortup.gif" title="Sorted ascending" height="13" border="0" /></span> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol5"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=5;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Who</font></a> </th>
+			<th bgcolor="#ffffff" valign="middle" class="foswikiTableCol6 foswikiLastCol"> <a rel="nofollow" href="/view/Lego/URLStandardSEO?sortcol=6;table=3;up=0#sorted_table" title="Sort by this column"><font color="#0066cc">Comment</font></a> </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+			<td bgcolor="#ffffff" rowspan="1" align="center" valign="top" class="foswikiTableCol0 foswikiFirstCol foswikiLast"> <span class="foswikiIcon"><img src="/pub/System/DocumentGraphics/xls.png" width="16" height="16" alt="Stop-words.xls" /></span><span class="foswikiHidden">xls</span> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol1 foswikiLast"> <a href="/pub/Lego/URLStandardSEO/Stop-words.xls">Stop-words.xls</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol2 foswikiLast"> <a href="/attach/Lego/URLStandardSEO?filename=Stop-words.xls;revInfo=1" title="change, update, previous revisions, move, delete..." rel="nofollow">manage</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="right" valign="top" class="foswikiTableCol3 foswikiLast"> 61.5&nbsp;K </td>
+			<td bgcolor="#f5f5f5" rowspan="1" align="left" valign="top" class="foswikiTableCol4 foswikiSortedAscendingCol foswikiSortedCol foswikiLast"> <span class="foswikiNoBreak">12 Jan 2011 - 18:09 UTC</span> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol5 foswikiLast"> <a href="/view/Main/MarkusrYahoo">MarkusrYahoo</a> </td>
+			<td bgcolor="#ffffff" rowspan="1" align="left" valign="top" class="foswikiTableCol6 foswikiLastCol foswikiLast"> Stop words for CN, DE, EN, ES, FR, IT and PT </td>
+		</tr>
+	</tbody></table>
+</div></div></div><!--//twikiAttachments--></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/URLStandardSEO?t=1383470332;nowysiwyg=1;' rel='nofollow' title='Raw Edit this topic text' accesskey='e'><span class='foswikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/attach/Lego/URLStandardSEO" accesskey="A" title="Attach an image or document to this topic" rel="nofollow"><span class='foswikiAccessKey'>A</span>ttach</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/view/Lego/URLStandardSEO?template=viewprint" title="Printable version of this topic" accesskey="P" rel="nofollow"><span class='foswikiAccessKey'>P</span>rint version</a><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><a href="/oops/Lego/URLStandardSEO?template=oopshistory" title="View total topic history" accesskey="H" rel="nofollow"><span class='foswikiAccessKey'>H</span>istory</a>: r50&nbsp;<a rel="nofollow" href="/rdiff/Lego/URLStandardSEO?rev1=50;rev2=49">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/URLStandardSEO?rev=49">r49</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/URLStandardSEO?rev1=49;rev2=48">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/URLStandardSEO?rev=48">r48</a>&nbsp;<a rel="nofollow" href="/rdiff/Lego/URLStandardSEO?rev1=48;rev2=47">&lt;</a>&nbsp;<a rel="nofollow" href="/view/Lego/URLStandardSEO?rev=47">r47</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/URLStandardSEO?template=backlinksweb;' rel='nofollow' title='Search the Lego Web for topics that link to here' accesskey='b'><span class='foswikiAccessKey'>B</span>acklinks</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span><a href='/view/Lego/URLStandardSEO?raw=on;;' rel='nofollow' title='View without formatting' accesskey='v'><span class='foswikiAccessKey'>V</span>iew wiki text</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="foswikiRequiresChangePermission"><a href='http://twiki.corp.yahoo.com/edit/Lego/URLStandardSEO?t=1383470332;wysiwyg=1;' rel='nofollow' title='Edit this topic text' accesskey='w'><span class='foswikiAccessKey'>W</span>YSIWYG</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><a href="/oops/Lego/URLStandardSEO?template=more&amp;maxrev=50&amp;currrev=50" title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey="M" rel="nofollow"><span class='foswikiAccessKey'>M</span>ore topic actions</a></span></div></div><!--/patternTopicActions--><div class="patternInfo twikiGrayText"><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents"><div class="patternWebIndicator">
+<b><a href="/view/Lego/WebHome">Lego</a></b>
+</div>
+<style>
+.twikiToc { margin:0;}
+</style>
+<p><strong><a href="/view/Lego/Modules">Modules List</a></strong><br />
+<strong><a href="/view/Lego/UserGuide">User Guide</a></strong></p>
+<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<li> <a href="/view/Lego/UserGuide#Engineering_Guide"> Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Editorial_Guide"> Editorial Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Quality_Engineering_40QE_41_Guide"> Quality Engineering (QE) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Experience_Design_40UED_41_Guide"> User Experience Design (UED) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Service_Engineering_Guide"> Service Engineering Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Search_Engine_Optimization_40SEO_41_Guide"> Search Engine Optimization (SEO) Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Product_Management_Guide"> Product Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Program_Management_Guide"> Program Management Guide </a>
+</li> <li> <a href="/view/Lego/UserGuide#Glossary"> Glossary </a>
+</li> <li> <a href="/view/Lego/UserGuide#User_Guide_Directory"> User Guide Directory </a>
+</li></ul> 
+</div>
+<p></p>
+<style type="text/css">
+.topicItem {font-size: 10px; font-family:arial,geneva,helvetica,sans-serif; line-height: 20px}
+.small{font-size: 10px}
+.xsmall{font-size: 8px}
+</style>
+<noscript>
+  <blockquote>
+     <strong>The form below requires JavaScript. Turn on JavaScript or use <span class="foswikiNewLink">Y! Advanced Search<a href="/edit/Shared/YAdvancedSearch?topicparent=Lego.URLStandardSEO;nowysiwyg=1" rel="nofollow" title="Create this topic">?</a></span>.</strong>
+  </blockquote>
+</noscript>
+<p></p>
+<p></p>
+ <strong>Search</strong> 
+<div class="topicItem">
+   <!-- "Backyard" search for "text"; TWiki search for "topic" -->
+   <form name="SearchForm" action="http://twiki.corp.yahoo.com/search/Lego" onsubmit="searchAction();" >
+     <input type="hidden" name="search" id="search" value="" />
+     <input type="hidden" name="site"   id="site"   value="twiki" />
+     <input type="hidden" name="type"   id="type"   value="regex" />
+     <input type="hidden" name="scope"  id="scope"  value="topic" />
+     <input type="hidden" name="web"    id="web"    value="Lego" />
+     <input type="text"   name="query"  id="query"  size="15" />
+     <br />
+     <select name="webOrSite">
+       <option value="Lego" /> Lego  
+       <option value="all" /> all TWiki 
+     </select>
+     <br />
+     <input type="radio" name="textOrTopic" value="topic" /> topic  
+     <input type="radio" name="textOrTopic" value="text"  checked /> content 
+     <br />
+     <input type="submit" name="Go" value="Search"  />
+   </form>
+<p></p>
+</div>
+<p></p>
+<i><a href="WebSearchAdvanced" class="small" title="Search page with many more options">Additional search options...</a></i>
+<p></p>
+<p></p>
+<script type="text/javascript">
+// The form provides the following data elements
+//  input type=text name=query           >> query string
+//  input type=button name=textOrTopic   >> search topic or content 
+//  select name=webOrSite                >> named web or "all"  
+//
+// Yahoo! chooses to use Vespa search for content
+// Vespa and TWiki search scripts take different parameters.
+// Unfortunately, some of the names overlap.
+//
+// Parameters:
+//    TWiki:  search =  <query string> 
+//            scope  = 'text' | 'topic'
+//            web    =  <select option value> 
+//
+//    Vespa:  query  =  <query string>
+//            site   =  'twiki' 
+//            search =  'site' 
+//            scope  =  '' | /view/<select option value>
+//            scope is not applicable for "all" (site-wide) search
+//
+// IMPORTANT: There cannot be any TWiki variables literally in the 
+// Shared.JavaScript (duh). So we set the default action to be a TWiki-format
+// Search URL and override that as needed.
+
+function searchAction()
+{
+  var theForm = document.SearchForm;
+  var selection = theForm.webOrSite.selectedIndex;
+  var webchoice = theForm.webOrSite.options[selection].value;
+
+  if (theForm.textOrTopic[0].checked == true) {
+      // topic 
+      theForm.scope.value = 'topic'; // TWiki
+      theForm.search.value = theForm.query.value; // TWiki
+      theForm.web.value = webchoice; // TWiki
+  } 
+  else {
+      // text 
+      theForm.action = 'http://search.corp.yahoo.com/q.php';
+      theForm.search.value = 'site'; // Vespa
+      if (webchoice == 'all') {
+        theForm.scope.value = '';  // Vespa
+      }
+      else {
+        theForm.scope.value = '/view/' + webchoice;  // Vespa
+     }
+  }
+  return true;
+}
+</script> <ul>
+<li> <a href="/view" target="_top"> <strong>Y! TWiki Home</strong> </a>
+</li> <li> <a href="/view/Home/TWikiNews">TWiki News - <em>15 May</em></a>
+</li> <li> <a href="http://backyard.yahoo.com/" target="_top">Backyard</a>
+</li> <li> <a href="/view/Help/WebHome">Twiki Help</a>
+</li> <li> <a href="/view/Lego/WebSiteTools">Lego Web Tools</a>
+</li> <li> <a href="/view/Lego/WebChanges">Lego Web Changes</a>
+</li></ul> 
+<p></p>
+<div class="patternLeftBarPersonal">
+<a href="/edit/Main/BpraveenYahooLeftBar?templatetopic=TWiki.WebLeftBarPersonalTemplate">Create</a> personal sidebar
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<a href="/view/Home/WebHome"> <strong>Top Level Categories</strong> </a> <ul>
+<li> <a href="/view/Home/Conlife">Connected Life</a>
+</li> <li> <a href="/view/Home/Eng">Engineering</a>
+</li> <li> <a href="/view/Home/GS">Global Sales</a>
+</li> <li> <a href="/view/Home/Internal">Internal Groups</a>
+</li> <li> <a href="/view/Home/Intl">International</a>
+</li> <li> <a href="/view/Home/LifeYahoo">Life at Yahoo!</a>
+</li> <li> <a href="/view/Home/Marketplace">Marketplaces</a>
+</li> <li> <a href="/view/Home/Media">Media Group (Content)</a>
+</li> <li> <a href="/view/Network/WebHome">Network Services</a>
+</li> <li> <a href="/view/Home/Paranoids">Paranoids</a>
+</li> <li> <a href="/view/Home/Platform">Platform Eng</a>
+</li> <li> <a href="/view/Home/Prodops">Production Ops</a>
+</li> <li> <a href="/view/SM/WebHome">Search</a>
+</li> <li> <a href="/view/Home/Admin">TWiki Admin</a>
+</li></ul> 
+<p></p>
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border=0 cellspacing=2 cellpadding=0 width="100%">
+  <tr>
+  <td valign="top" align="left" width="%WIKIICONWIDTH%" rowspan=2>
+    <!--  Header.Title  -->
+    <a class=ks_icon href="http://twiki.corp.yahoo.com/view/Home/WebHome" title='Home page of this whole "Foswiki" site'> <img src="http://twiki.corp.yahoo.com/pub/System/SitePreferences/wiki_ybang.gif" border=0><span class=headline></span>
+</td>
+  <td valign="top" align="right">
+    <!--  Header.buttonstop  -->
+<a href="/view" title='Home'><img src="/pub/System/TWikiDocGraphics/home.gif" width=16 height=16 border=0 alt="Home"> Home</a>
+<a href="/view/Home/SiteMap" title='Site Map'><img src="/pub/System/TWikiDocGraphics/sitemap.gif" width=16 height=16 border=0 alt="Site Map"> Site Map</a>
+<a href="/view/Help/WebHome" title='Help'><img src="/pub/System/TWikiDocGraphics/help.gif" width=16 height=16 border=0 alt="Home"> Help</a>
+</td>
+</tr>
+</table>                                  </div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">
+    <div id="ft" role="contentinfo" class="devtools-footer">
+        <div class="productVersion">
+          Yahoo! wiki <a href="http://dist.corp.yahoo.com/by-package/ywiki/">1.1.3_36</a>
+        </div>
+        <div class="privacyStatement">
+          Copyright &copy; 2010 Yahoo! Inc. All rights reserved. | <a href="http://twiki.corp.yahoo.com/view/Paranoidpolicy/PolicyInformationClassificationHandlingTable">Internal Use Only</a>
+        </div>
+        <div class="actions">
+          <a href="http://bug.corp.yahoo.com/enter_bug.cgi?product=wiki&amp;bugtype=Defect&amp;bug_file_loc=http://twiki.corp.yahoo.com/view/Lego/URLStandardSEO">Report a bug</a> | <a href="mailto:twiki-users@yahoo-inc.com?subject=Wiki%20feedback%20on%20Lego.URLStandardSEO">Feedback</a>
+        </div>
+    </div></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen--> <!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="http://d.yimg.com/mi/ono/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+/*globals window*/
+try {
+var YWATracker = YWA.getTracker("10001446763856", "ONO");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+} catch (eYWATCUnavailable) {
+if (window.console && window.console.warn) {
+window.console.warn(eYWATCUnavailable.message || "Unknown error");
+}
+}
+</script>
+<noscript>
+<div><img src="http://o.analytics.yahoo.com/p.pl?a=10001446763856&js=no" width="1" height="1" alt="" /></div>
+</noscript>
+</body></html>
+<!-- wikiui-02.dt.corp.gq1.yahoo.com Sun Nov  3 09:18:52 UTC 2013 -->
